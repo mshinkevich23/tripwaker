@@ -1,0 +1,79 @@
+<% if user_signed_in? %>
+  <div class="date-window">
+    <div class="date-panel">
+      <form action="/search" method="post">
+        <%= csrf_meta_tags %>
+        <div class="search-table">
+          <div id="datepairExample" style="display: inline;"> I'll be in
+            <select data-placeholder="Choose a city" class="tourist-chosen-city">
+            </select> from
+            <input name="start_date" type="text" class="date start dt" />
+            <input name="start_time" type="text" class="time start dt" /> to
+            <input name="end_date" type="text" class="date end dt" />
+            <input name="end_time" type="text" class="time end dt" />
+          </div>
+          <input class="btn btn-primary btn-md dt" type="submit" value="Search!"/>
+        </div>
+        <input name="city" class='form-city' type='hidden'>
+      </form>
+      <script>
+          touristf();
+          $('.chosen-single').css('height', '40px');
+          $('.chosen-single').css('line-height', '37px');
+          $('.chosen-container-single div').css('padding-top', '7px');
+          $('.chosen-container').css('font-size', '20px');
+
+          $('#datepairExample .time').timepicker({
+              'showDuration': true,
+              'timeFormat': 'g:ia'
+          });
+
+          $('#datepairExample .date').datepicker({
+              'format': 'yyyy-m-d',
+              'autoclose': true
+          });
+
+          $('#datepairExample').datepair();
+      </script>
+    </div>
+  </div>
+
+<% else %>
+
+<div class="navbar navbar-inverse navbar-fixed-top menu" role="navigation">
+      <div class="container" style="width: 1370px;">
+        <div class="navbar-collapse collapse">
+          <%= link_to image_tag("logo.png", width: 220), root_url, :class =>"navbar-brand logo" %>        
+          <ul class="nav navbar-nav navbar-right">
+            <% unless user_signed_in? %>
+              <li><%= link_to "About", about_path, :class => 'btn-s' %></li> 
+            <% end %>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+<div class="main-caption">
+  <h1 class="uppercase">A trip is more than just a destination</h1>
+    <div class="h4">Turn your stop into unique trip experience in 80+ cities</div>
+  <input class="login" href="/auth/facebook" type="image" src="images/fb_login.png">
+  <input class="login" href="/auth/vkontakte" type="image" src="images/vk_login.png">
+
+    <script>
+      function popupCenter(url) {
+        var width = 600;
+        var height = 600;
+        var name = "Facebook Auth";
+        var left = (screen.width/2)-(width/2);
+        var top = (screen.height/2)-(height/2);
+        return window.open(url, name, "menubar=no,toolbar=no,status=no,width="+width+",height="+height+",toolbar=no,left="+left+",top="+top);
+      }
+
+      $(".login").click(function(e) {
+        popupCenter($(this).attr("href"));
+        e.stopPropagation(); return false;
+      });
+    </script>
+  </div>
+
+<% end %>

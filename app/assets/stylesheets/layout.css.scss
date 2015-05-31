@@ -1,0 +1,57 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.menu {
+  background-color: transparent;
+  border: none;
+}
+
+.h4 {
+  font-size: 23px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+  font-size: 46px;
+  font-weight: 600;
+}
+
+.logo {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+#login {
+  margin-top: 20px;
+  width: 20%;
+  left: 40%;
+  border-radius: 10px; 
+  padding: 0; 
+  border: 0;
+}
+
+a.btn-s {
+  background-color: rgba(0, 0, 0, 0.15);
+  font-size: 20px;
+  height: 70px;
+  width: 140px;
+  text-align: center;
+  padding-top: 23px !important;
+  color: #fff !important;
+  font-weight: 500;
+}
+
+a.btn:hover {
+  opacity: 0.7;
+  background-color: #000;
+}
+
+.main {
+  background-image: url(tripwaker.jpg); 
+  width: 100%;
+  height: 2500px;
+  text-align: center;
+}
+
+

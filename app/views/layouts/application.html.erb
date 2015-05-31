@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TripWaker</title>
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <script type="text/javascript" src="/bootstrap/js/bootstrap.js"></script>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    <%= csrf_meta_tags %>
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top menu" role="navigation">
+      <div class="container" style="width: 1370px;">
+        <div class="navbar-collapse collapse">
+          <%= link_to image_tag("logo.png", width: 220), root_url, :class =>"navbar-brand logo" %>
+
+          <ul class="nav navbar-nav">
+          </ul>
+
+          <ul class="nav navbar-nav navbar-left">
+            <% if user_signed_in? %>
+              <li><%= link_to "Tourist", root_url, :class => 'btn-s' %></li> 
+              <li><%= link_to "Local", local_path(current_user.id), :class => 'btn-s' %></li> 
+            <% end %>
+          </ul>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <% if user_signed_in? %>
+              <li><%= link_to "Settings", edit_user_path(current_user.id), :class => 'btn-s' %></li> 
+              <li><%= link_to "Sign out", signout_path(current_user.id), :class => 'btn-s' %></li> 
+            <% end %>
+          </ul>
+          <script type="text/javascript" src="/assets/layout.js"></script>
+        </div>
+      </div>
+    </div>
+
+    <div class="main">
+      <%= yield %>
+    </div>
+	</body>
+</html>

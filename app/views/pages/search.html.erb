@@ -1,0 +1,70 @@
+<div class="search">
+  <div class="search-panel">
+    <form action="/email" method="post">
+      <h1 class="title">Matches</h1>
+      <% if @users.nil? || @users.empty? %>
+        <h2 class="title" style="color: #000;">No matches for you :(</h2>
+        <br>
+        <br>
+      <% else %>
+        <% @users.each do |user| %>
+
+          <div style=" border: 1px outset #000; border-radius: 10px; margin-bottom: 1px; ">
+            <div class="row suitable">
+              <div class="col-md-1" style="text-align: right;">
+                <input name="<%= user["id"]%>" class="checkbox" type="checkbox" style="margin-top: 20px;">
+              </div>
+              <div class="col-md-2">
+                <img src="<%= user["picture"] %>">
+              </div>
+              <div class="col-md-5">
+                <div>
+                  <h4 class="name"><%= user["name"] %></h4>
+                </div>
+
+                <div>
+                  <% user["dates"].each do |date, time| %>
+                    <%= date %>
+                    <%= time %>
+                    <br>
+                  <% end %>
+                </div>
+
+              </div>
+              <div class="col-md-4">
+                <div style="border-bottom: 1px outset #000;">
+                  <%= user["languages"].to_s.split(',').join(', ') %>
+                </div>
+
+                <div>
+                  <%= user["interests"].to_s.split(',').join(', ') %>
+                </div>
+              </div>
+            </div>
+            <div style="color: black; font-weight: bold">
+              <% unless (user["email"].nil?)%>
+                <%= user["email"] %>
+              <% end %>  
+            </div>
+          </div>
+        <% end %>
+        <input name="ids" class="ids" type="hidden">
+
+        <script>
+          $(".checkbox").click(function() {
+            selected = [];
+            $('.checkbox').each(function() {
+              if($(this).is(":checked")) {
+                selected.push($(this).attr('name'));
+              }
+            });
+            $(".ids").val(selected.join(','));
+          });
+        </script>
+
+        <br>
+        <input class="btn btn-primary btn-md ok" type="submit" value="Ok!"/>
+      </form>
+    <% end %>
+  </div>
+</div>

@@ -1,0 +1,840 @@
+<tr>
+<th>Rank</th>
+<th>City</th>
+<th>Image</th>
+<th>Population</th>
+<th>Definition</th>
+<th>Total Area (km²)</th>
+<th>Population density (/km²)</th>
+<th>Country</th>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="/wiki/Shanghai" title="Shanghai">Shanghai</a></td>
+<td><a href="/wiki/File:Shanghai_-_Pudong_-_Lujiazui.jpg" class="image"><img alt="Shanghai - Pudong - Lujiazui.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Shanghai_-_Pudong_-_Lujiazui.jpg/125px-Shanghai_-_Pudong_-_Lujiazui.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Shanghai_-_Pudong_-_Lujiazui.jpg/188px-Shanghai_-_Pudong_-_Lujiazui.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Shanghai_-_Pudong_-_Lujiazui.jpg/250px-Shanghai_-_Pudong_-_Lujiazui.jpg 2x" data-file-width="2135" data-file-height="1423" /></a></td>
+<td><span style="display:none" class="sortkey">7007241500000000000</span>24,150,000<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_administrative_divisions_of_Shanghai" title="List of administrative divisions of Shanghai">Direct-controlled municipality</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003634050000000000</span>6,340.5</td>
+<td><span style="display:none" class="sortkey">7003380900000000000</span>3,809</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="/wiki/Karachi" title="Karachi">Karachi</a></td>
+<td><a href="/wiki/File:Karachi_sky_line.jpg" class="image"><img alt="Karachi sky line.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Karachi_sky_line.jpg/125px-Karachi_sky_line.jpg" width="125" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Karachi_sky_line.jpg/188px-Karachi_sky_line.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Karachi_sky_line.jpg/250px-Karachi_sky_line.jpg 2x" data-file-width="845" data-file-height="532" /></a></td>
+<td><span style="display:none" class="sortkey">7007235000000000000</span>23,500,000<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_Union_Councils_of_Karachi" title="List of Union Councils of Karachi">metropolitan corporation</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003352700000000000</span>3,527</td>
+<td><span style="display:none" class="sortkey">7003666300000000000</span>6,663</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/35px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="/wiki/Beijing" title="Beijing">Beijing</a></td>
+<td><a href="/wiki/File:View_of_Beijing.jpg" class="image"><img alt="View of Beijing.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/View_of_Beijing.jpg/125px-View_of_Beijing.jpg" width="125" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/View_of_Beijing.jpg/188px-View_of_Beijing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/View_of_Beijing.jpg/250px-View_of_Beijing.jpg 2x" data-file-width="1463" data-file-height="1008" /></a></td>
+<td><span style="display:none" class="sortkey">7007215160000000000</span>21,516,000<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_administrative_divisions_of_Beijing" title="List of administrative divisions of Beijing">Direct-controlled municipality</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004164105400000000</span>16,410.54</td>
+<td><span style="display:none" class="sortkey">7003131100000000000</span>1,311</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="/wiki/Delhi" title="Delhi">Delhi</a></td>
+<td><a href="/wiki/File:Skyscrapers_connaught_place_New_Delhi.JPG" class="image"><img alt="Skyscrapers connaught place New Delhi.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Skyscrapers_connaught_place_New_Delhi.JPG/125px-Skyscrapers_connaught_place_New_Delhi.JPG" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Skyscrapers_connaught_place_New_Delhi.JPG/188px-Skyscrapers_connaught_place_New_Delhi.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Skyscrapers_connaught_place_New_Delhi.JPG/250px-Skyscrapers_connaught_place_New_Delhi.JPG 2x" data-file-width="824" data-file-height="550" /></a></td>
+<td><span style="display:none" class="sortkey">7007178388420000000</span>17,838,842<sup id="cite_ref-india1_12-0" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_districts_of_Delhi" title="List of districts of Delhi">National Capital Region</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003148400000000000</span>1,484.0<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003784590000000000</span>7,845.9</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="/wiki/Lagos" title="Lagos">Lagos</a></td>
+<td><a href="/wiki/File:Lagos_Island.jpg" class="image"><img alt="Lagos Island.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lagos_Island.jpg/125px-Lagos_Island.jpg" width="125" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lagos_Island.jpg/188px-Lagos_Island.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lagos_Island.jpg/250px-Lagos_Island.jpg 2x" data-file-width="583" data-file-height="330" /></a></td>
+<td><span style="display:none" class="sortkey">7007170603070000000</span>17,060,307<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></td>
+<td><a href="/wiki/Lagos_State" title="Lagos State">Metropolitan city</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002999580000000000</span>999.58<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004170680000000000</span>17,068</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/35px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/46px-Flag_of_Nigeria.svg.png 2x" data-file-width="2400" data-file-height="1200" />&#160;</span><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="/wiki/Tianjin" title="Tianjin">Tianjin</a></td>
+<td><a href="/wiki/File:%E5%A4%A9%E6%B4%A5%E5%8D%97%E4%BA%AC%E8%B7%AF%E6%BB%A8%E6%B1%9F%E9%81%93%E4%BA%A4%E5%8F%A3.jpg" class="image"><img alt="天津南京路滨江道交口.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/%E5%A4%A9%E6%B4%A5%E5%8D%97%E4%BA%AC%E8%B7%AF%E6%BB%A8%E6%B1%9F%E9%81%93%E4%BA%A4%E5%8F%A3.jpg/125px-%E5%A4%A9%E6%B4%A5%E5%8D%97%E4%BA%AC%E8%B7%AF%E6%BB%A8%E6%B1%9F%E9%81%93%E4%BA%A4%E5%8F%A3.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/%E5%A4%A9%E6%B4%A5%E5%8D%97%E4%BA%AC%E8%B7%AF%E6%BB%A8%E6%B1%9F%E9%81%93%E4%BA%A4%E5%8F%A3.jpg/188px-%E5%A4%A9%E6%B4%A5%E5%8D%97%E4%BA%AC%E8%B7%AF%E6%BB%A8%E6%B1%9F%E9%81%93%E4%BA%A4%E5%8F%A3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/%E5%A4%A9%E6%B4%A5%E5%8D%97%E4%BA%AC%E8%B7%AF%E6%BB%A8%E6%B1%9F%E9%81%93%E4%BA%A4%E5%8F%A3.jpg/250px-%E5%A4%A9%E6%B4%A5%E5%8D%97%E4%BA%AC%E8%B7%AF%E6%BB%A8%E6%B1%9F%E9%81%93%E4%BA%A4%E5%8F%A3.jpg 2x" data-file-width="2048" data-file-height="1536" /></a></td>
+<td><span style="display:none" class="sortkey">7007147221000000000</span>14,722,100<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_administrative_divisions_of_Tianjin" title="List of administrative divisions of Tianjin">Direct-controlled municipality</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003403700000000000</span>4,037<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003231400000000000</span>2,314</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="/wiki/Istanbul" title="Istanbul">Istanbul</a></td>
+<td><a href="/wiki/File:Halic.png" class="image"><img alt="Halic.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Halic.png/125px-Halic.png" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Halic.png/188px-Halic.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Halic.png/250px-Halic.png 2x" data-file-width="912" data-file-height="684" /></a></td>
+<td><span style="display:none" class="sortkey">7007141604670000000</span>14,160,467<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_districts_of_Istanbul" title="List of districts of Istanbul">Metropolitan Municipality-Province</a><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003546100000000000</span>5,461<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003646700000000000</span>6,467</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="/wiki/Guangzhou" title="Guangzhou">Guangzhou</a></td>
+<td><a href="/wiki/File:Pearl_River_Night_Cruise.jpg" class="image"><img alt="Pearl River Night Cruise.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pearl_River_Night_Cruise.jpg/125px-Pearl_River_Night_Cruise.jpg" width="125" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pearl_River_Night_Cruise.jpg/188px-Pearl_River_Night_Cruise.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pearl_River_Night_Cruise.jpg/250px-Pearl_River_Night_Cruise.jpg 2x" data-file-width="2142" data-file-height="1547" /></a></td>
+<td><span style="display:none" class="sortkey">7007127008000000000</span>12,700,800<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_administrative_divisions_of_Guangzhou" title="List of administrative divisions of Guangzhou">Sub-Provincial City</a><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003384343000000000</span>3,843.43</td>
+<td><span style="display:none" class="sortkey">7003330500000000000</span>3,305</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="/wiki/Mumbai" title="Mumbai">Mumbai</a></td>
+<td><a href="/wiki/File:Mumbai_skyline88907.jpg" class="image"><img alt="Mumbai skyline88907.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mumbai_skyline88907.jpg/125px-Mumbai_skyline88907.jpg" width="125" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mumbai_skyline88907.jpg/188px-Mumbai_skyline88907.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mumbai_skyline88907.jpg/250px-Mumbai_skyline88907.jpg 2x" data-file-width="707" data-file-height="406" /></a></td>
+<td><span style="display:none" class="sortkey">7007126552200000000</span>12,655,220<sup id="cite_ref-india1_12-1" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/Administrative_divisions_of_Mumbai" title="Administrative divisions of Mumbai">Municipal Corporation</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002603400000000000</span>603.4</td>
+<td><span style="display:none" class="sortkey">7004206800000000000</span>20,680</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="/wiki/Moscow" title="Moscow">Moscow</a></td>
+<td><a href="/wiki/File:Kremlevskaya_Naberezhnaja_Moscow.hires.jpg" class="image"><img alt="Kremlevskaya Naberezhnaja Moscow.hires.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kremlevskaya_Naberezhnaja_Moscow.hires.jpg/125px-Kremlevskaya_Naberezhnaja_Moscow.hires.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kremlevskaya_Naberezhnaja_Moscow.hires.jpg/188px-Kremlevskaya_Naberezhnaja_Moscow.hires.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kremlevskaya_Naberezhnaja_Moscow.hires.jpg/250px-Kremlevskaya_Naberezhnaja_Moscow.hires.jpg 2x" data-file-width="3072" data-file-height="2048" /></a></td>
+<td><span style="display:none" class="sortkey">7007121111940000000</span>12,111,194<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></td>
+<td><a href="/wiki/Administrative_divisions_of_Moscow" title="Administrative divisions of Moscow">Federal City</a><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003251012000000000</span>2,510.12<sup id="cite_ref-RusArea2009_32-0" class="reference"><a href="#cite_note-RusArea2009-32"><span>[</span>32<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003482500000000000</span>4,825</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="/wiki/Dhaka" title="Dhaka">Dhaka</a></td>
+<td><a href="/wiki/File:Dhaka-Bangladesh.jpg" class="image"><img alt="Dhaka-Bangladesh.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dhaka-Bangladesh.jpg/125px-Dhaka-Bangladesh.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dhaka-Bangladesh.jpg/188px-Dhaka-Bangladesh.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dhaka-Bangladesh.jpg/250px-Dhaka-Bangladesh.jpg 2x" data-file-width="450" data-file-height="297" /></a></td>
+<td><span style="display:none" class="sortkey">7007120439770000000</span>12,043,977<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></td>
+<td><a href="/wiki/Dhaka_City_Corporation" title="Dhaka City Corporation">City Corporation</a><sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002815800000000000</span>815.8<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004147630000000000</span>14,763</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x" data-file-width="500" data-file-height="300" />&#160;</span><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="/wiki/Cairo" title="Cairo">Cairo</a></td>
+<td><a href="/wiki/File:Kairo_001.jpg" class="image"><img alt="Kairo 001.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kairo_001.jpg/125px-Kairo_001.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kairo_001.jpg/188px-Kairo_001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kairo_001.jpg/250px-Kairo_001.jpg 2x" data-file-width="600" data-file-height="450" /></a></td>
+<td><span style="display:none" class="sortkey">7007119229490000000</span>11,922,949<sup id="cite_ref-Capmas2013_37-0" class="reference"><a href="#cite_note-Capmas2013-37"><span>[</span>37<span>]</span></a></sup></td>
+<td><a href="/wiki/Cairo_Governorate" title="Cairo Governorate">Governorate</a><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003308510000000000</span>3,085.1<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003386400000000000</span>3,864</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Egypt" title="Egypt">Egypt</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a></td>
+<td><a href="/wiki/File:Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg" class="image"><img alt="Ponte estaiada Octavio Frias - Sao Paulo.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg/125px-Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg" width="125" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg/188px-Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg/250px-Ponte_estaiada_Octavio_Frias_-_Sao_Paulo.jpg 2x" data-file-width="2956" data-file-height="1948" /></a></td>
+<td><span style="display:none" class="sortkey">7007118958930000000</span>11,895,893<sup id="cite_ref-brazil1_40-0" class="reference"><a href="#cite_note-brazil1-40"><span>[</span>40<span>]</span></a></sup></td>
+<td><a href="/wiki/Subdivisions_of_S%C3%A3o_Paulo" title="Subdivisions of São Paulo">Municipality City</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003152111000000000</span>1,521.11</td>
+<td><span style="display:none" class="sortkey">7003776230000000000</span>7,762.3</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="/wiki/Lahore" title="Lahore">Lahore</a></td>
+<td><a href="/wiki/File:Kalma_Underpass1.jpg" class="image"><img alt="Kalma Underpass1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kalma_Underpass1.jpg/125px-Kalma_Underpass1.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kalma_Underpass1.jpg/188px-Kalma_Underpass1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kalma_Underpass1.jpg/250px-Kalma_Underpass1.jpg 2x" data-file-width="679" data-file-height="450" /></a></td>
+<td><span style="display:none" class="sortkey">7007113187450000000</span>11,318,745<sup id="cite_ref-pakistan_42-0" class="reference"><a href="#cite_note-pakistan-42"><span>[</span>42<span>]</span></a></sup></td>
+<td><a href="/wiki/Lahore_District" title="Lahore District">City District</a></td>
+<td><span style="display:none" class="sortkey">7003177200000000000</span>1,772<sup id="cite_ref-pakistan_42-1" class="reference"><a href="#cite_note-pakistan-42"><span>[</span>42<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003356600000000000</span>3,566</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/35px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="/wiki/Shenzhen" title="Shenzhen">Shenzhen</a></td>
+<td><a href="/wiki/File:Shenzhen_night_street.JPG" class="image"><img alt="Shenzhen night street.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Shenzhen_night_street.JPG/125px-Shenzhen_night_street.JPG" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Shenzhen_night_street.JPG/188px-Shenzhen_night_street.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Shenzhen_night_street.JPG/250px-Shenzhen_night_street.JPG 2x" data-file-width="800" data-file-height="600" /></a></td>
+<td><span style="display:none" class="sortkey">7007104674000000000</span>10,467,400<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup></td>
+<td><a href="/wiki/Shenzhen#Administrative_divisions" title="Shenzhen">Sub-Provincial City</a></td>
+<td><span style="display:none" class="sortkey">7003199164000000000</span>1,991.64<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003525500000000000</span>5,255</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="/wiki/Seoul" title="Seoul">Seoul</a></td>
+<td><a href="/wiki/File:Gangnam,_Seoul,_Korea.jpg" class="image"><img alt="Gangnam, Seoul, Korea.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gangnam%2C_Seoul%2C_Korea.jpg/125px-Gangnam%2C_Seoul%2C_Korea.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gangnam%2C_Seoul%2C_Korea.jpg/188px-Gangnam%2C_Seoul%2C_Korea.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gangnam%2C_Seoul%2C_Korea.jpg/250px-Gangnam%2C_Seoul%2C_Korea.jpg 2x" data-file-width="1200" data-file-height="800" /></a></td>
+<td><span style="display:none" class="sortkey">7007103880550000000</span>10,388,055<sup id="cite_ref-seoul2_45-0" class="reference"><a href="#cite_note-seoul2-45"><span>[</span>45<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_districts_of_Seoul" title="List of districts of Seoul">Special City</a></td>
+<td><span style="display:none" class="sortkey">7002605210000000000</span>605.21<sup id="cite_ref-seoul1_46-0" class="reference"><a href="#cite_note-seoul1-46"><span>[</span>46<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004171640000000000</span>17,164</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Korea" title="South Korea">South Korea</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="/wiki/Jakarta" title="Jakarta">Jakarta</a></td>
+<td><a href="/wiki/File:Jakarta_Car_Free_Day.jpg" class="image"><img alt="Jakarta Car Free Day.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jakarta_Car_Free_Day.jpg/125px-Jakarta_Car_Free_Day.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jakarta_Car_Free_Day.jpg/188px-Jakarta_Car_Free_Day.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jakarta_Car_Free_Day.jpg/250px-Jakarta_Car_Free_Day.jpg 2x" data-file-width="1701" data-file-height="1275" /></a></td>
+<td><span style="display:none" class="sortkey">7006998832900000000</span>9,988,329<sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>47<span>]</span></a></sup></td>
+<td><a href="/wiki/Jakarta#Administration" title="Jakarta">Capital Region – Five Kota</a><sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>48<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002664120000000000</span>664.12</td>
+<td><span style="display:none" class="sortkey">7004150400000000000</span>15,040</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a></td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="/wiki/Kinshasa" title="Kinshasa">Kinshasa</a></td>
+<td><a href="/wiki/File:Kinshasa-Gombe,_from_CCIC.JPG" class="image"><img alt="Kinshasa-Gombe, from CCIC.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kinshasa-Gombe%2C_from_CCIC.JPG/125px-Kinshasa-Gombe%2C_from_CCIC.JPG" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kinshasa-Gombe%2C_from_CCIC.JPG/188px-Kinshasa-Gombe%2C_from_CCIC.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kinshasa-Gombe%2C_from_CCIC.JPG/250px-Kinshasa-Gombe%2C_from_CCIC.JPG 2x" data-file-width="800" data-file-height="600" /></a></td>
+<td><span style="display:none" class="sortkey">7006973500000000000</span>9,735,000<sup id="cite_ref-demographia_49-0" class="reference"><a href="#cite_note-demographia-49"><span>[</span>49<span>]</span></a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50"><span>[</span>50<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required. (March 2014)">full citation needed</span></a></i>]</sup></td>
+<td><a href="/wiki/Communes_of_Kinshasa" title="Communes of Kinshasa">Metropolitan Municipality-Province</a><sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003111762000099999</span>1,117.62<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003871000000000000</span>8,710</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/31px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 2x" data-file-width="800" data-file-height="600" />&#160;</span><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="/wiki/Tokyo" title="Tokyo">Tokyo</a></td>
+<td><a href="/wiki/File:Skyscrapers_of_Shinjuku_2009_January_(revised).jpg" class="image"><img alt="Skyscrapers of Shinjuku 2009 January (revised).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Skyscrapers_of_Shinjuku_2009_January_%28revised%29.jpg/125px-Skyscrapers_of_Shinjuku_2009_January_%28revised%29.jpg" width="125" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Skyscrapers_of_Shinjuku_2009_January_%28revised%29.jpg/188px-Skyscrapers_of_Shinjuku_2009_January_%28revised%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Skyscrapers_of_Shinjuku_2009_January_%28revised%29.jpg/250px-Skyscrapers_of_Shinjuku_2009_January_%28revised%29.jpg 2x" data-file-width="3400" data-file-height="1858" /></a></td>
+<td><span style="display:none" class="sortkey">7006907157700000000</span>9,071,577<sup id="cite_ref-53" class="reference"><a href="#cite_note-53"><span>[</span>53<span>]</span></a></sup></td>
+<td><a href="/wiki/Special_wards_of_Tokyo" title="Special wards of Tokyo">23 Special Wards (tokubetsu-ku)</a></td>
+<td><span style="display:none" class="sortkey">7002622990000000000</span>622.99<sup id="cite_ref-54" class="reference"><a href="#cite_note-54"><span>[</span>54<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004145620000000000</span>14,562</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Japan" title="Japan">Japan</a></td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a></td>
+<td><a href="/wiki/File:Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg" class="image"><img alt="Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg/125px-Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg/188px-Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg/250px-Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg 2x" data-file-width="5184" data-file-height="3456" /></a></td>
+<td><span style="display:none" class="sortkey">7006887472400000000</span>8,874,724<sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>55<span>]</span></a></sup></td>
+<td><a href="/wiki/Mexico_City%27s_boroughs" title="Mexico City's boroughs">Federal District</a></td>
+<td><span style="display:none" class="sortkey">7003148549000000000</span>1,485.49<sup id="cite_ref-ConapoZM_56-0" class="reference"><a href="#cite_note-ConapoZM-56"><span>[</span>56<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003597400000000000</span>5,974</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="1400" data-file-height="800" />&#160;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="/wiki/Lima" title="Lima">Lima</a></td>
+<td><a href="/wiki/File:Lima_Plaza_Mayor1_cropped.jpg" class="image"><img alt="Lima Plaza Mayor1 cropped.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lima_Plaza_Mayor1_cropped.jpg/125px-Lima_Plaza_Mayor1_cropped.jpg" width="125" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lima_Plaza_Mayor1_cropped.jpg/188px-Lima_Plaza_Mayor1_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lima_Plaza_Mayor1_cropped.jpg/250px-Lima_Plaza_Mayor1_cropped.jpg 2x" data-file-width="1242" data-file-height="730" /></a></td>
+<td><span style="display:none" class="sortkey">7006869338700000000</span>8,693,387<sup id="cite_ref-57" class="reference"><a href="#cite_note-57"><span>[</span>57<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_districts_of_Lima" title="List of districts of Lima">Metropolitan Municipality-Province</a><sup id="cite_ref-58" class="reference"><a href="#cite_note-58"><span>[</span>58<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003267230000000000</span>2,672.3</td>
+<td><span style="display:none" class="sortkey">7003325300000000000</span>3,253</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/35px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/45px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Peru" title="Peru">Peru</a></td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="/wiki/Bengaluru" title="Bengaluru" class="mw-redirect">Bengaluru</a></td>
+<td><a href="/wiki/File:UB_City.jpg" class="image"><img alt="UB City.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/UB_City.jpg/125px-UB_City.jpg" width="125" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/UB_City.jpg/188px-UB_City.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/UB_City.jpg/250px-UB_City.jpg 2x" data-file-width="800" data-file-height="546" /></a></td>
+<td><span style="display:none" class="sortkey">7006842597000000000</span>8,425,970<sup id="cite_ref-india1_12-2" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_districts_of_Karnataka#Alphabetical_listing" title="List of districts of Karnataka">Municipal Corporation</a></td>
+<td><span style="display:none" class="sortkey">7002709500000000000</span>709.5<sup id="cite_ref-59" class="reference"><a href="#cite_note-59"><span>[</span>59<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004118760000000000</span>11,876</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="/wiki/London" title="London">London</a></td>
+<td><a href="/wiki/File:Canary_Wharf_Skyline_2,_London_UK_-_Oct_2012.jpg" class="image"><img alt="Canary Wharf Skyline 2, London UK - Oct 2012.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg/125px-Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg" width="125" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg/188px-Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg/250px-Canary_Wharf_Skyline_2%2C_London_UK_-_Oct_2012.jpg 2x" data-file-width="5064" data-file-height="3463" /></a></td>
+<td><span style="display:none" class="sortkey">7006841653500000000</span>8,416,535<sup id="cite_ref-2013_ONS_Population_60-0" class="reference"><a href="#cite_note-2013_ONS_Population-60"><span>[</span>60<span>]</span></a></sup></td>
+<td><a href="/wiki/Local_government_in_London" title="Local government in London">Greater London Authority</a><sup id="cite_ref-61" class="reference"><a href="#cite_note-61"><span>[</span>61<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003157215000000000</span>1,572.15</td>
+<td><span style="display:none" class="sortkey">7003535400000000000</span>5,354</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="/wiki/New_York_City" title="New York City">New York City</a></td>
+<td><a href="/wiki/File:LowerManhattanSept2013.png" class="image"><img alt="LowerManhattanSept2013.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/LowerManhattanSept2013.png/125px-LowerManhattanSept2013.png" width="125" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/LowerManhattanSept2013.png/188px-LowerManhattanSept2013.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/LowerManhattanSept2013.png/250px-LowerManhattanSept2013.png 2x" data-file-width="410" data-file-height="255" /></a></td>
+<td><span style="display:none" class="sortkey">7006840583700000000</span>8,405,837<sup id="cite_ref-United_States_62-0" class="reference"><a href="#cite_note-United_States-62"><span>[</span>62<span>]</span></a></sup></td>
+<td><a href="/wiki/Borough_(New_York_City)" title="Borough (New York City)">Five Boroughs</a><sup id="cite_ref-63" class="reference"><a href="#cite_note-63"><span>[</span>63<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002783840000000000</span>783.84</td>
+<td><span style="display:none" class="sortkey">7004107240000000000</span>10,724</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="/wiki/Bangkok" title="Bangkok">Bangkok</a></td>
+<td><a href="/wiki/File:The_Baiyoke_Tower_II_in_Bangkok,_Thailand.jpg" class="image"><img alt="The Baiyoke Tower II in Bangkok, Thailand.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_Baiyoke_Tower_II_in_Bangkok%2C_Thailand.jpg/125px-The_Baiyoke_Tower_II_in_Bangkok%2C_Thailand.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_Baiyoke_Tower_II_in_Bangkok%2C_Thailand.jpg/188px-The_Baiyoke_Tower_II_in_Bangkok%2C_Thailand.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_Baiyoke_Tower_II_in_Bangkok%2C_Thailand.jpg/250px-The_Baiyoke_Tower_II_in_Bangkok%2C_Thailand.jpg 2x" data-file-width="1000" data-file-height="667" /></a></td>
+<td><span style="display:none" class="sortkey">7006828092500000000</span>8,280,925<sup id="cite_ref-2010_census_1_64-0" class="reference"><a href="#cite_note-2010_census_1-64"><span>[</span>64<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_districts_of_Bangkok" title="List of districts of Bangkok">Metropolitan Municipality-Province</a><sup id="cite_ref-65" class="reference"><a href="#cite_note-65"><span>[</span>65<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003156874000000000</span>1,568.74</td>
+<td><span style="display:none" class="sortkey">7003528000000000000</span>5,280</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Thailand" title="Thailand">Thailand</a></td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="/wiki/Dongguan" title="Dongguan">Dongguan</a></td>
+<td><a href="/wiki/File:Dongguan_Avenue_(CBD)_2010.jpg" class="image"><img alt="Dongguan Avenue (CBD) 2010.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dongguan_Avenue_%28CBD%29_2010.jpg/125px-Dongguan_Avenue_%28CBD%29_2010.jpg" width="125" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dongguan_Avenue_%28CBD%29_2010.jpg/188px-Dongguan_Avenue_%28CBD%29_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dongguan_Avenue_%28CBD%29_2010.jpg/250px-Dongguan_Avenue_%28CBD%29_2010.jpg 2x" data-file-width="640" data-file-height="478" /></a></td>
+<td><span style="display:none" class="sortkey">7006822020700000000</span>8,220,207<sup id="cite_ref-66" class="reference"><a href="#cite_note-66"><span>[</span>66<span>]</span></a></sup></td>
+<td><a href="/wiki/Dongguan#Administration" title="Dongguan">Sub-Provincial City</a></td>
+<td><span style="display:none" class="sortkey">7003246940000000000</span>2,469.4</td>
+<td><span style="display:none" class="sortkey">7003332900000000000</span>3,329</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="/wiki/Nanjing" title="Nanjing">Nanjing</a></td>
+<td><a href="/wiki/File:%E7%B4%AB%E5%B3%B0%E5%A4%A7%E5%8E%A6.jpeg" class="image"><img alt="紫峰大厦.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%E7%B4%AB%E5%B3%B0%E5%A4%A7%E5%8E%A6.jpeg/125px-%E7%B4%AB%E5%B3%B0%E5%A4%A7%E5%8E%A6.jpeg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%E7%B4%AB%E5%B3%B0%E5%A4%A7%E5%8E%A6.jpeg/188px-%E7%B4%AB%E5%B3%B0%E5%A4%A7%E5%8E%A6.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%E7%B4%AB%E5%B3%B0%E5%A4%A7%E5%8E%A6.jpeg/250px-%E7%B4%AB%E5%B3%B0%E5%A4%A7%E5%8E%A6.jpeg 2x" data-file-width="1000" data-file-height="750" /></a></td>
+<td><span style="display:none" class="sortkey">7006818782800000000</span>8,187,828<sup id="cite_ref-China_67-0" class="reference"><a href="#cite_note-China-67"><span>[</span>67<span>]</span></a></sup></td>
+<td><a href="/wiki/Nanjing#Administrative_divisions" title="Nanjing">Sub-Provincial City</a></td>
+<td><span style="display:none" class="sortkey">7003471385000000000</span>4,713.85</td>
+<td><span style="display:none" class="sortkey">7003173500000000000</span>1,735</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="/wiki/Tehran" title="Tehran">Tehran</a></td>
+<td><a href="/wiki/File:North_Tehran_Towers.jpg" class="image"><img alt="North Tehran Towers.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/North_Tehran_Towers.jpg/125px-North_Tehran_Towers.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/North_Tehran_Towers.jpg/188px-North_Tehran_Towers.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/North_Tehran_Towers.jpg/250px-North_Tehran_Towers.jpg 2x" data-file-width="3238" data-file-height="2432" /></a></td>
+<td><span style="display:none" class="sortkey">7006815405100000000</span>8,154,051<sup id="cite_ref-68" class="reference"><a href="#cite_note-68"><span>[</span>68<span>]</span></a></sup></td>
+<td><a href="/wiki/Tehran#Location_and_subdivisions" title="Tehran">City Municipality</a><sup id="cite_ref-69" class="reference"><a href="#cite_note-69"><span>[</span>69<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002686000000000000</span>686<sup id="cite_ref-70" class="reference"><a href="#cite_note-70"><span>[</span>70<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004118860000000000</span>11,886</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" />&#160;</span><a href="/wiki/Iran" title="Iran">Iran</a></td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="/wiki/Ahmedabad" title="Ahmedabad">Ahmedabad</a></td>
+<td><a href="/wiki/File:Amdavad_Aerial.jpg" class="image"><img alt="Amdavad Aerial.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Amdavad_Aerial.jpg/125px-Amdavad_Aerial.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Amdavad_Aerial.jpg/188px-Amdavad_Aerial.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Amdavad_Aerial.jpg/250px-Amdavad_Aerial.jpg 2x" data-file-width="500" data-file-height="375" /></a></td>
+<td><span style="display:none" class="sortkey">7006802997500000000</span>8,029,975<sup id="cite_ref-india1_12-3" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/Ahmedabad_district" title="Ahmedabad district">Municipal Corporation</a></td>
+<td><span style="display:none" class="sortkey">7002475000000000000</span>475</td>
+<td><span style="display:none" class="sortkey">7004117270000000000</span>11,727</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="/wiki/Bogot%C3%A1" title="Bogotá">Bogotá</a></td>
+<td><a href="/wiki/File:Centro-Internacional-Bogot%C3%A1.jpg" class="image"><img alt="Centro-Internacional-Bogotá.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Centro-Internacional-Bogot%C3%A1.jpg/125px-Centro-Internacional-Bogot%C3%A1.jpg" width="125" height="92" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Centro-Internacional-Bogot%C3%A1.jpg/188px-Centro-Internacional-Bogot%C3%A1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Centro-Internacional-Bogot%C3%A1.jpg/250px-Centro-Internacional-Bogot%C3%A1.jpg 2x" data-file-width="2027" data-file-height="1489" /></a></td>
+<td><span style="display:none" class="sortkey">7006777684500000000</span>7,776,845<sup id="cite_ref-71" class="reference"><a href="#cite_note-71"><span>[</span>71<span>]</span></a></sup></td>
+<td><a href="/wiki/Bogot%C3%A1#Government" title="Bogotá">Capital District</a><sup id="cite_ref-72" class="reference"><a href="#cite_note-72"><span>[</span>72<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002859110000000000</span>859.11<sup id="cite_ref-73" class="reference"><a href="#cite_note-73"><span>[</span>73<span>]</span></a></sup><sup id="cite_ref-74" class="reference"><a href="#cite_note-74"><span>[</span>74<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003905200000000000</span>9,052</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="/wiki/Ho_Chi_Minh_City" title="Ho Chi Minh City">Ho Chi Minh City</a></td>
+<td><a href="/wiki/File:M%E1%BB%99t_kh%C3%BAc_s%C3%B4ng_S%C3%A0i_G%C3%B2n.JPG" class="image"><img alt="Một khúc sông Sài Gòn.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/M%E1%BB%99t_kh%C3%BAc_s%C3%B4ng_S%C3%A0i_G%C3%B2n.JPG/125px-M%E1%BB%99t_kh%C3%BAc_s%C3%B4ng_S%C3%A0i_G%C3%B2n.JPG" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/M%E1%BB%99t_kh%C3%BAc_s%C3%B4ng_S%C3%A0i_G%C3%B2n.JPG/188px-M%E1%BB%99t_kh%C3%BAc_s%C3%B4ng_S%C3%A0i_G%C3%B2n.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/M%E1%BB%99t_kh%C3%BAc_s%C3%B4ng_S%C3%A0i_G%C3%B2n.JPG/250px-M%E1%BB%99t_kh%C3%BAc_s%C3%B4ng_S%C3%A0i_G%C3%B2n.JPG 2x" data-file-width="2048" data-file-height="1536" /></a></td>
+<td><span style="display:none" class="sortkey">7006768170000000000</span>7,681,700<sup id="cite_ref-vietnam1_75-0" class="reference"><a href="#cite_note-vietnam1-75"><span>[</span>75<span>]</span></a></sup></td>
+<td><a href="/wiki/Ho_Chi_Minh_City#Political_and_administrative_system" title="Ho Chi Minh City">Metropolitan Municipality-Province</a></td>
+<td><span style="display:none" class="sortkey">7003209560000000000</span>2,095.6<sup id="cite_ref-vietnam2_76-0" class="reference"><a href="#cite_note-vietnam2-76"><span>[</span>76<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003366700000000000</span>3,667</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a></td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></td>
+<td><a href="/wiki/File:Hong_Kong_view_from_The_Peak_01.jpg" class="image"><img alt="Hong Kong view from The Peak 01.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hong_Kong_view_from_The_Peak_01.jpg/125px-Hong_Kong_view_from_The_Peak_01.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hong_Kong_view_from_The_Peak_01.jpg/188px-Hong_Kong_view_from_The_Peak_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hong_Kong_view_from_The_Peak_01.jpg/250px-Hong_Kong_view_from_The_Peak_01.jpg 2x" data-file-width="2592" data-file-height="1944" /></a></td>
+<td><span style="display:none" class="sortkey">7006721970000000000</span>7,219,700<sup id="cite_ref-77" class="reference"><a href="#cite_note-77"><span>[</span>77<span>]</span></a></sup></td>
+<td><a href="/wiki/Districts_of_Hong_Kong" title="Districts of Hong Kong">Special Administrative Region</a></td>
+<td><span style="display:none" class="sortkey">7003110443000000000</span>1,104.43<sup id="cite_ref-78" class="reference"><a href="#cite_note-78"><span>[</span>78<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003653700000000000</span>6,537</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="/wiki/Baghdad" title="Baghdad">Baghdad</a></td>
+<td><a href="/wiki/File:Haifa_street,_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg" class="image"><img alt="Haifa street, as seen from the medical city hospital across the tigres.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Haifa_street%2C_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg/125px-Haifa_street%2C_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Haifa_street%2C_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg/188px-Haifa_street%2C_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Haifa_street%2C_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg/250px-Haifa_street%2C_as_seen_from_the_medical_city_hospital_across_the_tigres.jpg 2x" data-file-width="1632" data-file-height="1224" /></a></td>
+<td><span style="display:none" class="sortkey">7006718088900000000</span>7,180,889<sup id="cite_ref-79" class="reference"><a href="#cite_note-79"><span>[</span>79<span>]</span></a></sup></td>
+<td><a href="/wiki/Administrative_districts_in_Baghdad" title="Administrative districts in Baghdad">Metropolitan Municipality-Province</a><sup id="cite_ref-80" class="reference"><a href="#cite_note-80"><span>[</span>80<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003455500000000000</span>4,555<sup id="cite_ref-81" class="reference"><a href="#cite_note-81"><span>[</span>81<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003157700000000000</span>1,577</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/35px-Flag_of_Iraq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/45px-Flag_of_Iraq.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Iraq" title="Iraq">Iraq</a></td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="/wiki/Wuhan" title="Wuhan">Wuhan</a></td>
+<td><a href="/wiki/File:Wuchang-Uprising-Memorial-Square-0127.jpg" class="image"><img alt="Wuchang-Uprising-Memorial-Square-0127.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wuchang-Uprising-Memorial-Square-0127.jpg/125px-Wuchang-Uprising-Memorial-Square-0127.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wuchang-Uprising-Memorial-Square-0127.jpg/188px-Wuchang-Uprising-Memorial-Square-0127.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wuchang-Uprising-Memorial-Square-0127.jpg/250px-Wuchang-Uprising-Memorial-Square-0127.jpg 2x" data-file-width="2048" data-file-height="1536" /></a></td>
+<td><span style="display:none" class="sortkey">7006688625300000000</span>6,886,253<sup id="cite_ref-82" class="reference"><a href="#cite_note-82"><span>[</span>82<span>]</span></a></sup></td>
+<td><a href="/wiki/Wuhan#Administrative_divisions" title="Wuhan">Sub-Provincial City</a><sup id="cite_ref-83" class="reference"><a href="#cite_note-83"><span>[</span>83<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003132761000099999</span>1,327.61<sup id="cite_ref-84" class="reference"><a href="#cite_note-84"><span>[</span>84<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003518700000000000</span>5,187</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="/wiki/Hyderabad" title="Hyderabad">Hyderabad</a></td>
+<td><a href="/wiki/File:Hydabada.jpg" class="image"><img alt="Hydabada.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hydabada.jpg/125px-Hydabada.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hydabada.jpg/188px-Hydabada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hydabada.jpg/250px-Hydabada.jpg 2x" data-file-width="1024" data-file-height="768" /></a></td>
+<td><span style="display:none" class="sortkey">7006680997000000000</span>6,809,970<sup id="cite_ref-india1_12-4" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/Greater_Hyderabad_Municipal_Corporation" title="Greater Hyderabad Municipal Corporation">Municipal Corporation</a></td>
+<td><span style="display:none" class="sortkey">7002621480000000000</span>621.48<sup id="cite_ref-Hyd1_85-0" class="reference"><a href="#cite_note-Hyd1-85"><span>[</span>85<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004109580000000000</span>10,958</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="/wiki/Hanoi" title="Hanoi">Hanoi</a></td>
+<td><a href="/wiki/File:Hanoi_Cityscape.jpg" class="image"><img alt="Hanoi Cityscape.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hanoi_Cityscape.jpg/125px-Hanoi_Cityscape.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hanoi_Cityscape.jpg/188px-Hanoi_Cityscape.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hanoi_Cityscape.jpg/250px-Hanoi_Cityscape.jpg 2x" data-file-width="1024" data-file-height="768" /></a></td>
+<td><span style="display:none" class="sortkey">7006684410000000000</span>6,844,100<sup id="cite_ref-vietnam1_75-1" class="reference"><a href="#cite_note-vietnam1-75"><span>[</span>75<span>]</span></a></sup></td>
+<td><a href="/wiki/Hanoi#Districts" title="Hanoi">Metropolitan Municipality-Province</a></td>
+<td><span style="display:none" class="sortkey">7003332360000000000</span>3,323.6<sup id="cite_ref-vietnam2_76-1" class="reference"><a href="#cite_note-vietnam2-76"><span>[</span>76<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003205900000000000</span>2,059</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a></td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="/wiki/Luanda" title="Luanda">Luanda</a></td>
+<td><a href="/wiki/File:Marginal_Avenida_4_de_Fevreiro_Luanda_March_2013_05_(cropped).JPG" class="image"><img alt="Marginal Avenida 4 de Fevreiro Luanda March 2013 05 (cropped).JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Marginal_Avenida_4_de_Fevreiro_Luanda_March_2013_05_%28cropped%29.JPG/125px-Marginal_Avenida_4_de_Fevreiro_Luanda_March_2013_05_%28cropped%29.JPG" width="125" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Marginal_Avenida_4_de_Fevreiro_Luanda_March_2013_05_%28cropped%29.JPG/188px-Marginal_Avenida_4_de_Fevreiro_Luanda_March_2013_05_%28cropped%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Marginal_Avenida_4_de_Fevreiro_Luanda_March_2013_05_%28cropped%29.JPG/250px-Marginal_Avenida_4_de_Fevreiro_Luanda_March_2013_05_%28cropped%29.JPG 2x" data-file-width="3077" data-file-height="2011" /></a></td>
+<td><span style="display:none" class="sortkey">7006654294400000000</span>6,542,944<sup id="cite_ref-86" class="reference"><a href="#cite_note-86"><span>[</span>86<span>]</span></a></sup></td>
+<td><a href="/wiki/Luanda_Province" title="Luanda Province">Metropolitan Municipality-Province</a><sup id="cite_ref-87" class="reference"><a href="#cite_note-87"><span>[</span>87<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003225700000000000</span>2,257<sup id="cite_ref-88" class="reference"><a href="#cite_note-88"><span>[</span>88<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003289900000000000</span>2,899</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/35px-Flag_of_Angola.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/45px-Flag_of_Angola.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Angola" title="Angola">Angola</a></td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a></td>
+<td><a href="/wiki/File:Vista_a%C3%A9rea_Centro_do_Rio_de_Janeiro_RJ.jpg" class="image"><img alt="Vista aérea Centro do Rio de Janeiro RJ.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vista_a%C3%A9rea_Centro_do_Rio_de_Janeiro_RJ.jpg/125px-Vista_a%C3%A9rea_Centro_do_Rio_de_Janeiro_RJ.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vista_a%C3%A9rea_Centro_do_Rio_de_Janeiro_RJ.jpg/188px-Vista_a%C3%A9rea_Centro_do_Rio_de_Janeiro_RJ.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vista_a%C3%A9rea_Centro_do_Rio_de_Janeiro_RJ.jpg/250px-Vista_a%C3%A9rea_Centro_do_Rio_de_Janeiro_RJ.jpg 2x" data-file-width="3264" data-file-height="2448" /></a></td>
+<td><span style="display:none" class="sortkey">7006642992300000000</span>6,429,923<sup id="cite_ref-brazil1_40-1" class="reference"><a href="#cite_note-brazil1-40"><span>[</span>40<span>]</span></a></sup></td>
+<td><a href="/wiki/Rio_de_Janeiro#City_districts" title="Rio de Janeiro">Municipality City</a></td>
+<td><span style="display:none" class="sortkey">7003120027000000000</span>1,200.27<sup id="cite_ref-IBGE_89-0" class="reference"><a href="#cite_note-IBGE-89"><span>[</span>89<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003535700000000000</span>5,357</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="/wiki/Foshan" title="Foshan">Foshan</a></td>
+<td><a href="/wiki/File:Downtown_of_Guicheng.jpg" class="image"><img alt="Downtown of Guicheng.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Downtown_of_Guicheng.jpg/125px-Downtown_of_Guicheng.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Downtown_of_Guicheng.jpg/188px-Downtown_of_Guicheng.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Downtown_of_Guicheng.jpg/250px-Downtown_of_Guicheng.jpg 2x" data-file-width="4672" data-file-height="3104" /></a></td>
+<td><span style="display:none" class="sortkey">7006615162200000000</span>6,151,622<sup id="cite_ref-90" class="reference"><a href="#cite_note-90"><span>[</span>90<span>]</span></a></sup><sup id="cite_ref-91" class="reference"><a href="#cite_note-91"><span>[</span>91<span>]</span></a></sup></td>
+<td><a href="/wiki/Foshan#Administration" title="Foshan">Sub-Provincial City</a></td>
+<td><span style="display:none" class="sortkey">7003203462000000000</span>2,034.62<sup id="cite_ref-92" class="reference"><a href="#cite_note-92"><span>[</span>92<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003302300000000000</span>3,023</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="/wiki/Santiago" title="Santiago">Santiago</a></td>
+<td><a href="/wiki/File:Santiago_de_Chile.jpg" class="image"><img alt="Santiago de Chile.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Santiago_de_Chile.jpg/125px-Santiago_de_Chile.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Santiago_de_Chile.jpg/188px-Santiago_de_Chile.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Santiago_de_Chile.jpg/250px-Santiago_de_Chile.jpg 2x" data-file-width="1280" data-file-height="960" /></a></td>
+<td><span style="display:none" class="sortkey">7006574371900000000</span>5,743,719<sup id="cite_ref-93" class="reference"><a href="#cite_note-93"><span>[</span>93<span>]</span></a></sup></td>
+<td><a href="/wiki/Santiago_Province,_Chile" title="Santiago Province, Chile">Metropolitan Municipality-Province</a><sup id="cite_ref-94" class="reference"><a href="#cite_note-94"><span>[</span>94<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003124990000000000</span>1,249.9</td>
+<td><span style="display:none" class="sortkey">7003459500000000000</span>4,595</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Chile" title="Chile">Chile</a></td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="/wiki/Riyadh" title="Riyadh">Riyadh</a></td>
+<td><a href="/wiki/File:Riyadh_1337.jpg" class="image"><img alt="Riyadh 1337.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Riyadh_1337.jpg/125px-Riyadh_1337.jpg" width="125" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Riyadh_1337.jpg/188px-Riyadh_1337.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Riyadh_1337.jpg/250px-Riyadh_1337.jpg 2x" data-file-width="2122" data-file-height="1339" /></a></td>
+<td><span style="display:none" class="sortkey">7006567662100000000</span>5,676,621<sup id="cite_ref-95" class="reference"><a href="#cite_note-95"><span>[</span>95<span>]</span></a></sup></td>
+<td><a href="/wiki/Riyadh#Geography_and_climate" title="Riyadh">Municipality City</a><sup id="cite_ref-96" class="reference"><a href="#cite_note-96"><span>[</span>96<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003123398000000000</span>1,233.98<sup id="cite_ref-97" class="reference"><a href="#cite_note-97"><span>[</span>97<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003460000000000000</span>4,600</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="/wiki/Singapore" title="Singapore">Singapore</a></td>
+<td><a href="/wiki/File:Singapore_CBD_skyline_from_Esplanade_at_dusk.jpg" class="image"><img alt="Singapore CBD skyline from Esplanade at dusk.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Singapore_CBD_skyline_from_Esplanade_at_dusk.jpg/125px-Singapore_CBD_skyline_from_Esplanade_at_dusk.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Singapore_CBD_skyline_from_Esplanade_at_dusk.jpg/188px-Singapore_CBD_skyline_from_Esplanade_at_dusk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Singapore_CBD_skyline_from_Esplanade_at_dusk.jpg/250px-Singapore_CBD_skyline_from_Esplanade_at_dusk.jpg 2x" data-file-width="1600" data-file-height="1067" /></a></td>
+<td><span style="display:none" class="sortkey">7006539920000000000</span>5,399,200<sup id="cite_ref-98" class="reference"><a href="#cite_note-98"><span>[</span>98<span>]</span></a></sup></td>
+<td><a href="/wiki/Administrative_divisions_of_Singapore" title="Administrative divisions of Singapore">City State</a></td>
+<td><span style="display:none" class="sortkey">7002712400000000000</span>712.4</td>
+<td><span style="display:none" class="sortkey">7003757900000000000</span>7,579</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/35px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/45px-Flag_of_Singapore.svg.png 2x" data-file-width="4320" data-file-height="2880" />&#160;</span><a href="/wiki/Singapore" title="Singapore">Singapore</a></td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="/wiki/Shantou" title="Shantou">Shantou</a></td>
+<td><a href="/wiki/File:China-shantou03.jpg" class="image"><img alt="China-shantou03.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/China-shantou03.jpg/125px-China-shantou03.jpg" width="125" height="91" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/China-shantou03.jpg/188px-China-shantou03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/China-shantou03.jpg/250px-China-shantou03.jpg 2x" data-file-width="1024" data-file-height="746" /></a></td>
+<td><span style="display:none" class="sortkey">7006539102800000000</span>5,391,028<sup id="cite_ref-99" class="reference"><a href="#cite_note-99"><span>[</span>99<span>]</span></a></sup></td>
+<td><a href="/wiki/Shantou#Administration" title="Shantou">Sub-Provincial City</a></td>
+<td><span style="display:none" class="sortkey">7003206442000000000</span>2,064.42</td>
+<td><span style="display:none" class="sortkey">7003261100000000000</span>2,611</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="/wiki/Saint_Petersburg" title="Saint Petersburg">Saint Petersburg</a></td>
+<td><a href="/wiki/File:Petersburg-square.jpg" class="image"><img alt="Petersburg-square.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Petersburg-square.jpg/125px-Petersburg-square.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Petersburg-square.jpg/188px-Petersburg-square.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Petersburg-square.jpg/250px-Petersburg-square.jpg 2x" data-file-width="1600" data-file-height="1200" /></a></td>
+<td><span style="display:none" class="sortkey">7006513196700000000</span>5,131,967<sup id="cite_ref-2014Est_100-0" class="reference"><a href="#cite_note-2014Est-100"><span>[</span>100<span>]</span></a></sup></td>
+<td><a href="/wiki/Administrative_divisions_of_Saint_Petersburg" title="Administrative divisions of Saint Petersburg">Federal City</a></td>
+<td><span style="display:none" class="sortkey">7003143900000000000</span>1,439<sup id="cite_ref-RusArea2009_32-1" class="reference"><a href="#cite_note-RusArea2009-32"><span>[</span>32<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003356600000000000</span>3,566</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="/wiki/Pune" title="Pune">Pune</a></td>
+<td><a href="/wiki/File:AmonoraTownCentre.jpg" class="image"><img alt="AmonoraTownCentre.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/AmonoraTownCentre.jpg/125px-AmonoraTownCentre.jpg" width="125" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/AmonoraTownCentre.jpg/188px-AmonoraTownCentre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/AmonoraTownCentre.jpg/250px-AmonoraTownCentre.jpg 2x" data-file-width="1260" data-file-height="768" /></a></td>
+<td><span style="display:none" class="sortkey">7006504996800000000</span>5,049,968<sup id="cite_ref-india1_12-5" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/Municipal_Corporation" title="Municipal Corporation" class="mw-redirect">Municipal Corporation</a></td>
+<td><span style="display:none" class="sortkey">7002450690000000000</span>450.69</td>
+<td><span style="display:none" class="sortkey">7003691300000000000</span>6,913</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="/wiki/Ankara" title="Ankara">Ankara</a></td>
+<td><a href="/wiki/File:Ankara_and_mosque_wza.jpg" class="image"><img alt="Ankara and mosque wza.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ankara_and_mosque_wza.jpg/125px-Ankara_and_mosque_wza.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ankara_and_mosque_wza.jpg/188px-Ankara_and_mosque_wza.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ankara_and_mosque_wza.jpg/250px-Ankara_and_mosque_wza.jpg 2x" data-file-width="1200" data-file-height="900" /></a></td>
+<td><span style="display:none" class="sortkey">7006504508300000000</span>5,045,083<sup id="cite_ref-101" class="reference"><a href="#cite_note-101"><span>[</span>101<span>]</span></a></sup></td>
+<td><a href="/wiki/Ankara_Province" title="Ankara Province">Metropolitan Municipality-Province</a><sup id="cite_ref-102" class="reference"><a href="#cite_note-102"><span>[</span>102<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003191092000000000</span>1,910.92</td>
+<td><span style="display:none" class="sortkey">7003228200000000000</span>2,282</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="/wiki/Chennai" title="Chennai">Chennai</a></td>
+<td><a href="/wiki/File:Southern_Railway_HQ.jpg" class="image"><img alt="Southern Railway HQ.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Southern_Railway_HQ.jpg/125px-Southern_Railway_HQ.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Southern_Railway_HQ.jpg/188px-Southern_Railway_HQ.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Southern_Railway_HQ.jpg/250px-Southern_Railway_HQ.jpg 2x" data-file-width="1024" data-file-height="768" /></a></td>
+<td><span style="display:none" class="sortkey">7006479294900000000</span>4,792,949<sup id="cite_ref-2011city_103-0" class="reference"><a href="#cite_note-2011city-103"><span>[</span>103<span>]</span></a></sup></td>
+<td><a href="/wiki/Administration_of_Chennai" title="Administration of Chennai">Municipal Corporation</a><sup id="cite_ref-104" class="reference"><a href="#cite_note-104"><span>[</span>104<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002426510000000000</span>426.51<sup id="cite_ref-105" class="reference"><a href="#cite_note-105"><span>[</span>105<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004210570000000000</span>21,057</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="/wiki/Abidjan" title="Abidjan">Abidjan</a></td>
+<td><a href="/wiki/File:Plateau_Centre-est.jpg" class="image"><img alt="Plateau Centre-est.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Plateau_Centre-est.jpg/125px-Plateau_Centre-est.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Plateau_Centre-est.jpg/188px-Plateau_Centre-est.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Plateau_Centre-est.jpg/250px-Plateau_Centre-est.jpg 2x" data-file-width="1024" data-file-height="768" /></a></td>
+<td><span style="display:none" class="sortkey">7006476500000000000</span>4,765,000<sup id="cite_ref-demographia_49-1" class="reference"><a href="#cite_note-demographia-49"><span>[</span>49<span>]</span></a></sup></td>
+<td><a href="/wiki/Abidjan#Politics" title="Abidjan">Department/City District</a></td>
+<td><span style="display:none" class="sortkey">7003211900000000000</span>2,119<sup id="cite_ref-106" class="reference"><a href="#cite_note-106"><span>[</span>106<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003224900000000000</span>2,249</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/35px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/45px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a></td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="/wiki/Chengdu" title="Chengdu">Chengdu</a></td>
+<td><a href="/wiki/File:Tianfusquare.jpg" class="image"><img alt="Tianfusquare.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tianfusquare.jpg/125px-Tianfusquare.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tianfusquare.jpg/188px-Tianfusquare.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tianfusquare.jpg/250px-Tianfusquare.jpg 2x" data-file-width="1800" data-file-height="1198" /></a></td>
+<td><span style="display:none" class="sortkey">7006474192900000000</span>4,741,929<sup id="cite_ref-2010census_107-0" class="reference"><a href="#cite_note-2010census-107"><span>[</span>107<span>]</span></a></sup></td>
+<td><a href="/wiki/Chengdu#Administrative_divisions" title="Chengdu">Sub-Provincial City</a></td>
+<td><span style="display:none" class="sortkey">7002421000000000000</span>421<sup id="cite_ref-2010census_107-1" class="reference"><a href="#cite_note-2010census-107"><span>[</span>107<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004112600000000000</span>11,260</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="/wiki/Yangon" title="Yangon">Yangon</a></td>
+<td><a href="/wiki/File:Downtown_Yangon_(2006).jpg" class="image"><img alt="Downtown Yangon (2006).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Downtown_Yangon_%282006%29.jpg/125px-Downtown_Yangon_%282006%29.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Downtown_Yangon_%282006%29.jpg/188px-Downtown_Yangon_%282006%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Downtown_Yangon_%282006%29.jpg/250px-Downtown_Yangon_%282006%29.jpg 2x" data-file-width="1280" data-file-height="960" /></a></td>
+<td><span style="display:none" class="sortkey">7006471400000000000</span>4,714,000<sup id="cite_ref-108" class="reference"><a href="#cite_note-108"><span>[</span>108<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_districts_and_neighborhoods_of_Yangon" title="List of districts and neighborhoods of Yangon">Metropolitan Municipality-Province</a><sup id="cite_ref-109" class="reference"><a href="#cite_note-109"><span>[</span>109<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002598750000000000</span>598.75<sup id="cite_ref-110" class="reference"><a href="#cite_note-110"><span>[</span>110<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003787300000000000</span>7,873</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/35px-Flag_of_Myanmar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/45px-Flag_of_Myanmar.svg.png 2x" data-file-width="1800" data-file-height="1200" />&#160;</span><a href="/wiki/Burma" title="Burma">Burma</a></td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="/wiki/Alexandria" title="Alexandria">Alexandria</a></td>
+<td><a href="/wiki/File:Alexandria_-_Egypt.jpg" class="image"><img alt="Alexandria - Egypt.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alexandria_-_Egypt.jpg/125px-Alexandria_-_Egypt.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alexandria_-_Egypt.jpg/188px-Alexandria_-_Egypt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alexandria_-_Egypt.jpg/250px-Alexandria_-_Egypt.jpg 2x" data-file-width="3008" data-file-height="2000" /></a></td>
+<td><span style="display:none" class="sortkey">7006461662500000000</span>4,616,625<sup id="cite_ref-Capmas2013_37-1" class="reference"><a href="#cite_note-Capmas2013-37"><span>[</span>37<span>]</span></a></sup></td>
+<td><a href="/wiki/Alexandria_Governorate" title="Alexandria Governorate">Governorate</a></td>
+<td><span style="display:none" class="sortkey">7003230000000000000</span>2,300<sup id="cite_ref-111" class="reference"><a href="#cite_note-111"><span>[</span>111<span>]</span></a></sup><sup id="cite_ref-112" class="reference"><a href="#cite_note-112"><span>[</span>112<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003200700000000000</span>2,007</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Egypt" title="Egypt">Egypt</a></td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="/wiki/Chongqing" title="Chongqing">Chongqing</a></td>
+<td><a href="/wiki/File:Chongqing_Night_Yuzhong.jpg" class="image"><img alt="Chongqing Night Yuzhong.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chongqing_Night_Yuzhong.jpg/125px-Chongqing_Night_Yuzhong.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chongqing_Night_Yuzhong.jpg/188px-Chongqing_Night_Yuzhong.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chongqing_Night_Yuzhong.jpg/250px-Chongqing_Night_Yuzhong.jpg 2x" data-file-width="2000" data-file-height="1333" /></a></td>
+<td><span style="display:none" class="sortkey">7006451313700000000</span>4,513,137<sup id="cite_ref-113" class="reference"><a href="#cite_note-113"><span>[</span>113<span>]</span></a></sup> <sup id="cite_ref-114" class="reference"><a href="#cite_note-114"><span>[</span>114<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_administrative_divisions_of_Chongqing" title="List of administrative divisions of Chongqing">Direct-controlled municipality</a><sup id="cite_ref-115" class="reference"><a href="#cite_note-115"><span>[</span>115<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003143507000000000</span>1,435.07</td>
+<td><span style="display:none" class="sortkey">7003314500000000000</span>3,145</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="/wiki/Kolkata" title="Kolkata">Kolkata</a></td>
+<td><a href="/wiki/File:Victoria_Memorial_Hall,_Kolkata.jpg" class="image"><img alt="Victoria Memorial Hall, Kolkata.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Victoria_Memorial_Hall%2C_Kolkata.jpg/125px-Victoria_Memorial_Hall%2C_Kolkata.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Victoria_Memorial_Hall%2C_Kolkata.jpg/188px-Victoria_Memorial_Hall%2C_Kolkata.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Victoria_Memorial_Hall%2C_Kolkata.jpg/250px-Victoria_Memorial_Hall%2C_Kolkata.jpg 2x" data-file-width="5184" data-file-height="3456" /></a></td>
+<td><span style="display:none" class="sortkey">7006448667900000000</span>4,486,679<sup id="cite_ref-india1_12-6" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/Municipal_Corporation" title="Municipal Corporation" class="mw-redirect">Municipal Corporation</a></td>
+<td><span style="display:none" class="sortkey">7002200700000000000</span>200.7</td>
+<td><span style="display:none" class="sortkey">7004242520000000000</span>24,252</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="/wiki/Xi%27an" title="Xi'an">Xi'an</a></td>
+<td><a href="/wiki/File:Xi%27an_erhuan_southeast.JPG" class="image"><img alt="Xi'an erhuan southeast.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Xi%27an_erhuan_southeast.JPG/125px-Xi%27an_erhuan_southeast.JPG" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Xi%27an_erhuan_southeast.JPG/188px-Xi%27an_erhuan_southeast.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Xi%27an_erhuan_southeast.JPG/250px-Xi%27an_erhuan_southeast.JPG 2x" data-file-width="2304" data-file-height="1728" /></a></td>
+<td><span style="display:none" class="sortkey">7006446783700000000</span>4,467,837<sup id="cite_ref-116" class="reference"><a href="#cite_note-116"><span>[</span>116<span>]</span></a></sup></td>
+<td><a href="/wiki/Xi%27an#Subdivision" title="Xi'an">Sub-Provincial City</a><sup id="cite_ref-117" class="reference"><a href="#cite_note-117"><span>[</span>117<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002832170000000000</span>832.17</td>
+<td><span style="display:none" class="sortkey">7003538800000000000</span>5,388</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="/wiki/Surat" title="Surat">Surat</a></td>
+<td><a href="/wiki/File:GauravPath1.jpg" class="image"><img alt="GauravPath1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/GauravPath1.jpg/125px-GauravPath1.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/GauravPath1.jpg/188px-GauravPath1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/GauravPath1.jpg/250px-GauravPath1.jpg 2x" data-file-width="3264" data-file-height="2448" /></a></td>
+<td><span style="display:none" class="sortkey">7006446200200000000</span>4,462,002<sup id="cite_ref-india1_12-7" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/Municipal_Corporation" title="Municipal Corporation" class="mw-redirect">Municipal Corporation</a></td>
+<td><span style="display:none" class="sortkey">7002326515000000000</span>326.515<sup id="cite_ref-118" class="reference"><a href="#cite_note-118"><span>[</span>118<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7004136660000000000</span>13,666</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a></td>
+<td><a href="/wiki/File:Johannesburg_CBD.jpg" class="image"><img alt="Johannesburg CBD.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Johannesburg_CBD.jpg/125px-Johannesburg_CBD.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Johannesburg_CBD.jpg/188px-Johannesburg_CBD.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Johannesburg_CBD.jpg/250px-Johannesburg_CBD.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></td>
+<td><span style="display:none" class="sortkey">7006443482700000000</span>4,434,827<sup id="cite_ref-South_Africa_119-0" class="reference"><a href="#cite_note-South_Africa-119"><span>[</span>119<span>]</span></a></sup></td>
+<td><a href="/wiki/City_of_Johannesburg_Metropolitan_Municipality" title="City of Johannesburg Metropolitan Municipality">Municipality City</a></td>
+<td><span style="display:none" class="sortkey">7003164498000000000</span>1,644.98</td>
+<td><span style="display:none" class="sortkey">7003269600000000000</span>2,696</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="/wiki/Dar_es_Salaam" title="Dar es Salaam">Dar es Salaam</a></td>
+<td><a href="/wiki/File:Dar_es_Salaam_aerial.jpg" class="image"><img alt="Dar es Salaam aerial.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dar_es_Salaam_aerial.jpg/125px-Dar_es_Salaam_aerial.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dar_es_Salaam_aerial.jpg/188px-Dar_es_Salaam_aerial.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dar_es_Salaam_aerial.jpg/250px-Dar_es_Salaam_aerial.jpg 2x" data-file-width="4032" data-file-height="3024" /></a></td>
+<td><span style="display:none" class="sortkey">7006436454100000000</span>4,364,541<sup id="cite_ref-120" class="reference"><a href="#cite_note-120"><span>[</span>120<span>]</span></a></sup></td>
+<td><a href="/wiki/Dar_es_Salaam_Region" title="Dar es Salaam Region">Metropolitan Municipality-Province</a><sup id="cite_ref-121" class="reference"><a href="#cite_note-121"><span>[</span>121<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003163112000000000</span>1,631.12<sup id="cite_ref-122" class="reference"><a href="#cite_note-122"><span>[</span>122<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003267600000000000</span>2,676</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/35px-Flag_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/45px-Flag_of_Tanzania.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="/wiki/Suzhou" title="Suzhou">Suzhou</a></td>
+<td><a href="/wiki/File:China_Suzhou_Jinjihu_Lake.jpg" class="image"><img alt="China Suzhou Jinjihu Lake.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/China_Suzhou_Jinjihu_Lake.jpg/125px-China_Suzhou_Jinjihu_Lake.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/China_Suzhou_Jinjihu_Lake.jpg/188px-China_Suzhou_Jinjihu_Lake.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/China_Suzhou_Jinjihu_Lake.jpg/250px-China_Suzhou_Jinjihu_Lake.jpg 2x" data-file-width="1920" data-file-height="1280" /></a></td>
+<td><span style="display:none" class="sortkey">7006432706600000000</span>4,327,066<sup id="cite_ref-123" class="reference"><a href="#cite_note-123"><span>[</span>123<span>]</span></a></sup></td>
+<td><a href="/wiki/Suzhou#Administrative_divisions" title="Suzhou">Sub-Provincial City</a><sup id="cite_ref-124" class="reference"><a href="#cite_note-124"><span>[</span>124<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003164972000000000</span>1,649.72<sup id="cite_ref-125" class="reference"><a href="#cite_note-125"><span>[</span>125<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003252600000000000</span>2,526</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="/wiki/Harbin" title="Harbin">Harbin</a></td>
+<td><a href="/wiki/File:Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg" class="image"><img alt="Tower at Harbin Ice and Snow Festival 2012.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg/125px-Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg/188px-Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg/250px-Tower_at_Harbin_Ice_and_Snow_Festival_2012.jpg 2x" data-file-width="5616" data-file-height="3744" /></a></td>
+<td><span style="display:none" class="sortkey">7006428070100000000</span>4,280,701<sup id="cite_ref-126" class="reference"><a href="#cite_note-126"><span>[</span>126<span>]</span></a></sup><sup id="cite_ref-127" class="reference"><a href="#cite_note-127"><span>[</span>127<span>]</span></a></sup></td>
+<td><a href="/wiki/Harbin#Administrative_divisions" title="Harbin">Sub-Provincial City</a></td>
+<td><span style="display:none" class="sortkey">7003171820000000000</span>1,718.2<sup id="cite_ref-128" class="reference"><a href="#cite_note-128"><span>[</span>128<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003249140000000000</span>2,491.4</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="/wiki/Giza" title="Giza">Giza</a></td>
+<td><a href="/wiki/File:Egipt_383.jpg" class="image"><img alt="Egipt 383.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Egipt_383.jpg/125px-Egipt_383.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Egipt_383.jpg/188px-Egipt_383.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Egipt_383.jpg/250px-Egipt_383.jpg 2x" data-file-width="2560" data-file-height="1920" /></a></td>
+<td><span style="display:none" class="sortkey">7006423998800000000</span>4,239,988<sup id="cite_ref-129" class="reference"><a href="#cite_note-129"><span>[</span>129<span>]</span></a></sup></td>
+<td><a href="/wiki/Giza#Districts_and_neighbourhoods_of_Giza" title="Giza">Governorate</a><sup id="cite_ref-130" class="reference"><a href="#cite_note-130"><span>[</span>130<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002289080000000000</span>289.08</td>
+<td><span style="display:none" class="sortkey">7004146670000000000</span>14,667</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Egypt" title="Egypt">Egypt</a></td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="/wiki/Zhengzhou" title="Zhengzhou">Zhengzhou</a></td>
+<td><a href="/wiki/File:Hnyszx.png" class="image"><img alt="Hnyszx.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hnyszx.png/125px-Hnyszx.png" width="125" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hnyszx.png/188px-Hnyszx.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hnyszx.png/250px-Hnyszx.png 2x" data-file-width="866" data-file-height="531" /></a></td>
+<td><span style="display:none" class="sortkey">7006412208700000000</span>4,122,087<sup id="cite_ref-131" class="reference"><a href="#cite_note-131"><span>[</span>131<span>]</span></a></sup></td>
+<td><a href="/wiki/Zhengzhou#Administration_and_demography" title="Zhengzhou">Sub-Provincial City</a><sup id="cite_ref-132" class="reference"><a href="#cite_note-132"><span>[</span>132<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003101566000000000</span>1,015.66</td>
+<td><span style="display:none" class="sortkey">7003405900000000000</span>4,059</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="/wiki/New_Taipei_City" title="New Taipei City">New Taipei City</a></td>
+<td><a href="/wiki/File:Roctpchall.jpg" class="image"><img alt="Roctpchall.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roctpchall.jpg/125px-Roctpchall.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roctpchall.jpg/188px-Roctpchall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roctpchall.jpg/250px-Roctpchall.jpg 2x" data-file-width="3264" data-file-height="2448" /></a></td>
+<td><span style="display:none" class="sortkey">7006395492900000000</span>3,954,929<sup id="cite_ref-133" class="reference"><a href="#cite_note-133"><span>[</span>133<span>]</span></a></sup></td>
+<td><a href="/wiki/Special_municipality_(Republic_of_China)" title="Special municipality (Republic of China)" class="mw-redirect">Special Municipality</a></td>
+<td><span style="display:none" class="sortkey">7003205257000000000</span>2,052.57<sup id="cite_ref-134" class="reference"><a href="#cite_note-134"><span>[</span>134<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003192700000000000</span>1,927</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Taiwan" title="Taiwan">Republic of China (Taiwan)</a></td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a></td>
+<td><a href="/wiki/File:LA_Skyline_Mountains2.jpg" class="image"><img alt="LA Skyline Mountains2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/LA_Skyline_Mountains2.jpg/125px-LA_Skyline_Mountains2.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/LA_Skyline_Mountains2.jpg/188px-LA_Skyline_Mountains2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/LA_Skyline_Mountains2.jpg/250px-LA_Skyline_Mountains2.jpg 2x" data-file-width="2816" data-file-height="1880" /></a></td>
+<td><span style="display:none" class="sortkey">7006388430700000000</span>3,884,307<sup id="cite_ref-United_States_62-1" class="reference"><a href="#cite_note-United_States-62"><span>[</span>62<span>]</span></a></sup></td>
+<td><a href="/wiki/Municipality" title="Municipality">Municipality</a> City<sup id="cite_ref-135" class="reference"><a href="#cite_note-135"><span>[</span>135<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003121385000099999</span>1,213.85</td>
+<td><span style="display:none" class="sortkey">7003317800000000000</span>3,178</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="/wiki/Cape_Town" title="Cape Town">Cape Town</a></td>
+<td><a href="/wiki/File:Central_Cape_Town.jpg" class="image"><img alt="Central Cape Town.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Central_Cape_Town.jpg/125px-Central_Cape_Town.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Central_Cape_Town.jpg/188px-Central_Cape_Town.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Central_Cape_Town.jpg/250px-Central_Cape_Town.jpg 2x" data-file-width="2816" data-file-height="2112" /></a></td>
+<td><span style="display:none" class="sortkey">7006374002600000000</span>3,740,026<sup id="cite_ref-South_Africa_119-1" class="reference"><a href="#cite_note-South_Africa-119"><span>[</span>119<span>]</span></a></sup></td>
+<td><a href="/wiki/List_of_Cape_Town_suburbs" title="List of Cape Town suburbs">Municipality City</a></td>
+<td><span style="display:none" class="sortkey">7003244497000099999</span>2,444.97</td>
+<td><span style="display:none" class="sortkey">7003153000000000000</span>1,530</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="/wiki/Shenyang" title="Shenyang">Shenyang</a></td>
+<td><a href="/wiki/File:Shenyang_Zentrum.jpg" class="image"><img alt="Shenyang Zentrum.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shenyang_Zentrum.jpg/125px-Shenyang_Zentrum.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shenyang_Zentrum.jpg/188px-Shenyang_Zentrum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shenyang_Zentrum.jpg/250px-Shenyang_Zentrum.jpg 2x" data-file-width="3072" data-file-height="2304" /></a></td>
+<td><span style="display:none" class="sortkey">7006371709800000000</span>3,717,098<sup id="cite_ref-136" class="reference"><a href="#cite_note-136"><span>[</span>136<span>]</span></a></sup></td>
+<td>Sub-Provincial City</td>
+<td><span style="display:none" class="sortkey">7002166000000000000</span>166</td>
+<td><span style="display:none" class="sortkey">7004223920000000000</span>22,392</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="/wiki/Yokohama" title="Yokohama">Yokohama</a></td>
+<td><a href="/wiki/File:Minato_Mirai_In_Blue.jpg" class="image"><img alt="Minato Mirai In Blue.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Minato_Mirai_In_Blue.jpg/125px-Minato_Mirai_In_Blue.jpg" width="125" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Minato_Mirai_In_Blue.jpg/188px-Minato_Mirai_In_Blue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Minato_Mirai_In_Blue.jpg/250px-Minato_Mirai_In_Blue.jpg 2x" data-file-width="3872" data-file-height="2592" /></a></td>
+<td><span style="display:none" class="sortkey">7006368026700000000</span>3,680,267<sup id="cite_ref-137" class="reference"><a href="#cite_note-137"><span>[</span>137<span>]</span></a></sup></td>
+<td><a href="/wiki/Cities_of_Japan" title="Cities of Japan">Municipality City</a></td>
+<td><span style="display:none" class="sortkey">7002437380000000000</span>437.38</td>
+<td><span style="display:none" class="sortkey">7003841400000000000</span>8,414</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Japan" title="Japan">Japan</a></td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="/wiki/Busan" title="Busan">Busan</a></td>
+<td><a href="/wiki/File:August_Afternoon_in_Haeundae_2.jpg" class="image"><img alt="August Afternoon in Haeundae 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/August_Afternoon_in_Haeundae_2.jpg/125px-August_Afternoon_in_Haeundae_2.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/August_Afternoon_in_Haeundae_2.jpg/188px-August_Afternoon_in_Haeundae_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/August_Afternoon_in_Haeundae_2.jpg/250px-August_Afternoon_in_Haeundae_2.jpg 2x" data-file-width="2592" data-file-height="1944" /></a></td>
+<td><span style="display:none" class="sortkey">7006359010100000000</span>3,590,101<sup id="cite_ref-kosispop_138-0" class="reference"><a href="#cite_note-kosispop-138"><span>[</span>138<span>]</span></a></sup></td>
+<td>Municipality City</td>
+<td><span style="display:none" class="sortkey">7002766120000000000</span>766.12<sup id="cite_ref-kosispop_138-1" class="reference"><a href="#cite_note-kosispop-138"><span>[</span>138<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003468600000000000</span>4,686</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Korea" title="South Korea">South Korea</a></td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="/wiki/Hangzhou" title="Hangzhou">Hangzhou</a></td>
+<td><a href="/wiki/File:Hangzhou-yellow-dragon-stad.jpg" class="image"><img alt="Hangzhou-yellow-dragon-stad.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hangzhou-yellow-dragon-stad.jpg/125px-Hangzhou-yellow-dragon-stad.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hangzhou-yellow-dragon-stad.jpg/188px-Hangzhou-yellow-dragon-stad.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hangzhou-yellow-dragon-stad.jpg/250px-Hangzhou-yellow-dragon-stad.jpg 2x" data-file-width="800" data-file-height="600" /></a></td>
+<td><span style="display:none" class="sortkey">7006356039100000000</span>3,560,391<sup id="cite_ref-stat_139-0" class="reference"><a href="#cite_note-stat-139"><span>[</span>139<span>]</span></a></sup></td>
+<td>Sub-Provincial City</td>
+<td><span style="display:none" class="sortkey">7002728190000000000</span>728.19<sup id="cite_ref-stat_139-1" class="reference"><a href="#cite_note-stat-139"><span>[</span>139<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003488900000000000</span>4,889</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="/wiki/Xiamen" title="Xiamen">Xiamen</a></td>
+<td><a href="/wiki/File:Buddhism_library.jpg" class="image"><img alt="Buddhism library.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Buddhism_library.jpg/125px-Buddhism_library.jpg" width="125" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Buddhism_library.jpg/188px-Buddhism_library.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Buddhism_library.jpg/250px-Buddhism_library.jpg 2x" data-file-width="2418" data-file-height="1688" /></a></td>
+<td><span style="display:none" class="sortkey">7006353134700000000</span>3,531,347<sup id="cite_ref-140" class="reference"><a href="#cite_note-140"><span>[</span>140<span>]</span></a></sup></td>
+<td>Sub-Provincial City</td>
+<td><span style="display:none" class="sortkey">7003169900000000000</span>1,699</td>
+<td><span style="display:none" class="sortkey">7003207800000000000</span>2,078</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="/wiki/Quanzhou" title="Quanzhou">Quanzhou</a></td>
+<td><a href="/wiki/File:Lingshan_Islamic_Cemetery_-_city_view_-_DSCF8486.JPG" class="image"><img alt="Lingshan Islamic Cemetery - city view - DSCF8486.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lingshan_Islamic_Cemetery_-_city_view_-_DSCF8486.JPG/125px-Lingshan_Islamic_Cemetery_-_city_view_-_DSCF8486.JPG" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lingshan_Islamic_Cemetery_-_city_view_-_DSCF8486.JPG/188px-Lingshan_Islamic_Cemetery_-_city_view_-_DSCF8486.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lingshan_Islamic_Cemetery_-_city_view_-_DSCF8486.JPG/250px-Lingshan_Islamic_Cemetery_-_city_view_-_DSCF8486.JPG 2x" data-file-width="2048" data-file-height="1536" /></a></td>
+<td><span style="display:none" class="sortkey">7006352084600000000</span>3,520,846<sup id="cite_ref-141" class="reference"><a href="#cite_note-141"><span>[</span>141<span>]</span></a></sup></td>
+<td><a href="/wiki/Quanzhou#Administrative_divisions" title="Quanzhou">Sub-Provincial City</a></td>
+<td><span style="display:none" class="sortkey">7003106200000000000</span>1,062</td>
+<td><span style="display:none" class="sortkey">7003331500000000000</span>3,315</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="/wiki/Berlin" title="Berlin">Berlin</a></td>
+<td><a href="/wiki/File:PotsdamerPlatz_Vogelperspektive_2004_1.jpg" class="image"><img alt="PotsdamerPlatz Vogelperspektive 2004 1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/125px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg" width="125" height="92" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/188px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/250px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg 2x" data-file-width="997" data-file-height="730" /></a></td>
+<td><span style="display:none" class="sortkey">7006351742400000000</span>3,517,424<sup id="cite_ref-142" class="reference"><a href="#cite_note-142"><span>[</span>142<span>]</span></a></sup></td>
+<td><a href="/wiki/Boroughs_and_localities_of_Berlin" title="Boroughs and localities of Berlin">City State</a></td>
+<td><span style="display:none" class="sortkey">7002891750000000000</span>891.75</td>
+<td><span style="display:none" class="sortkey">7003394400000000000</span>3,944</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="/wiki/Jeddah" title="Jeddah">Jeddah</a></td>
+<td><a href="/wiki/File:Jeddeh4.jpg" class="image"><img alt="Jeddeh4.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jeddeh4.jpg/125px-Jeddeh4.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jeddeh4.jpg/188px-Jeddeh4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jeddeh4.jpg/250px-Jeddeh4.jpg 2x" data-file-width="720" data-file-height="540" /></a></td>
+<td><span style="display:none" class="sortkey">7006345625900000000</span>3,456,259<sup id="cite_ref-143" class="reference"><a href="#cite_note-143"><span>[</span>143<span>]</span></a></sup></td>
+<td>Municipality City</td>
+<td><span style="display:none" class="sortkey">7003176500000000000</span>1,765<sup id="cite_ref-144" class="reference"><a href="#cite_note-144"><span>[</span>144<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003195800000000000</span>1,958</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="/wiki/Durban" title="Durban">Durban</a></td>
+<td><a href="/wiki/File:VWestDurban.jpg" class="image"><img alt="VWestDurban.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/VWestDurban.jpg/125px-VWestDurban.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/VWestDurban.jpg/188px-VWestDurban.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/VWestDurban.jpg/250px-VWestDurban.jpg 2x" data-file-width="4288" data-file-height="2848" /></a></td>
+<td><span style="display:none" class="sortkey">7006344236100000000</span>3,442,361<sup id="cite_ref-South_Africa_119-2" class="reference"><a href="#cite_note-South_Africa-119"><span>[</span>119<span>]</span></a></sup></td>
+<td><a href="/wiki/Durban#Suburbs" title="Durban">Municipality City</a></td>
+<td><span style="display:none" class="sortkey">7003229131000000000</span>2,291.31</td>
+<td><span style="display:none" class="sortkey">7003150200000000000</span>1,502</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="/wiki/Kabul" title="Kabul">Kabul</a></td>
+<td><a href="/wiki/File:Khair_Khana_in_2012.jpg" class="image"><img alt="Khair Khana in 2012.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Khair_Khana_in_2012.jpg/125px-Khair_Khana_in_2012.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Khair_Khana_in_2012.jpg/188px-Khair_Khana_in_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Khair_Khana_in_2012.jpg/250px-Khair_Khana_in_2012.jpg 2x" data-file-width="2048" data-file-height="1536" /></a></td>
+<td><span style="display:none" class="sortkey">7006341410000000000</span>3,414,100<sup id="cite_ref-145" class="reference"><a href="#cite_note-145"><span>[</span>145<span>]</span></a></sup></td>
+<td><a href="/wiki/Kabul#Neighborhoods" title="Kabul">Municipality City</a></td>
+<td><span style="display:none" class="sortkey">7002275000000000000</span>275</td>
+<td><span style="display:none" class="sortkey">7004124150000000000</span>12,415</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/35px-Flag_of_Afghanistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/45px-Flag_of_Afghanistan.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a></td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="/wiki/Jaipur" title="Jaipur">Jaipur</a></td>
+<td><a href="/wiki/File:DSCN1444.JPG" class="image"><img alt="DSCN1444.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DSCN1444.JPG/125px-DSCN1444.JPG" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DSCN1444.JPG/188px-DSCN1444.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DSCN1444.JPG/250px-DSCN1444.JPG 2x" data-file-width="3648" data-file-height="2736" /></a></td>
+<td><span style="display:none" class="sortkey">7006335507000000000</span>3,355,070<sup id="cite_ref-india1_12-8" class="reference"><a href="#cite_note-india1-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><a href="/wiki/Municipal_Corporation" title="Municipal Corporation" class="mw-redirect">Municipal Corporation</a></td>
+<td><span style="display:none" class="sortkey">7002485000000000000</span>485</td>
+<td><span style="display:none" class="sortkey">7003633700000000000</span>6,337</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="/wiki/Hefei" title="Hefei">Hefei</a></td>
+<td><a href="/wiki/File:Hefei-yejing1.jpg" class="image"><img alt="Hefei-yejing1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hefei-yejing1.jpg/125px-Hefei-yejing1.jpg" width="125" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hefei-yejing1.jpg/188px-Hefei-yejing1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hefei-yejing1.jpg/250px-Hefei-yejing1.jpg 2x" data-file-width="1019" data-file-height="657" /></a></td>
+<td><span style="display:none" class="sortkey">7006335207600000000</span>3,352,076<sup id="cite_ref-146" class="reference"><a href="#cite_note-146"><span>[</span>146<span>]</span></a></sup></td>
+<td><a href="/wiki/Hefei#Administration" title="Hefei">Sub-Provincial City</a><sup id="cite_ref-147" class="reference"><a href="#cite_note-147"><span>[</span>147<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002838520000000000</span>838.52</td>
+<td><span style="display:none" class="sortkey">7003399800000000000</span>3,998</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="/wiki/Pyongyang" title="Pyongyang">Pyongyang</a></td>
+<td><a href="/wiki/File:0322_Pyongyang_Turm_der_Juche_Idee_Aussicht.jpg" class="image"><img alt="0322 Pyongyang Turm der Juche Idee Aussicht.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/0322_Pyongyang_Turm_der_Juche_Idee_Aussicht.jpg/125px-0322_Pyongyang_Turm_der_Juche_Idee_Aussicht.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/0322_Pyongyang_Turm_der_Juche_Idee_Aussicht.jpg/188px-0322_Pyongyang_Turm_der_Juche_Idee_Aussicht.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/0322_Pyongyang_Turm_der_Juche_Idee_Aussicht.jpg/250px-0322_Pyongyang_Turm_der_Juche_Idee_Aussicht.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></td>
+<td><span style="display:none" class="sortkey">7006325538800000000</span>3,255,388<sup id="cite_ref-148" class="reference"><a href="#cite_note-148"><span>[</span>148<span>]</span></a></sup></td>
+<td><a href="/wiki/Pyongyang#Administrative_status_and_divisions" title="Pyongyang">Direct-controlled municipality</a></td>
+<td><span style="display:none" class="sortkey">7003211300000000000</span>2,113<sup id="cite_ref-149" class="reference"><a href="#cite_note-149"><span>[</span>149<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003154100000000000</span>1,541</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/35px-Flag_of_North_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/46px-Flag_of_North_Korea.svg.png 2x" data-file-width="1600" data-file-height="800" />&#160;</span><a href="/wiki/North_Korea" title="North Korea">North Korea</a></td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="/wiki/Madrid" title="Madrid">Madrid</a></td>
+<td><a href="/wiki/File:Gran_V%C3%ADa_(Madrid)_1.jpg" class="image"><img alt="Gran Vía (Madrid) 1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gran_V%C3%ADa_%28Madrid%29_1.jpg/125px-Gran_V%C3%ADa_%28Madrid%29_1.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gran_V%C3%ADa_%28Madrid%29_1.jpg/188px-Gran_V%C3%ADa_%28Madrid%29_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gran_V%C3%ADa_%28Madrid%29_1.jpg/250px-Gran_V%C3%ADa_%28Madrid%29_1.jpg 2x" data-file-width="4310" data-file-height="2868" /></a></td>
+<td><span style="display:none" class="sortkey">7006320724700000000</span>3,207,247<sup id="cite_ref-150" class="reference"><a href="#cite_note-150"><span>[</span>150<span>]</span></a></sup></td>
+<td><a href="/wiki/Districts_of_Madrid" title="Districts of Madrid">Municipality City</a></td>
+<td><span style="display:none" class="sortkey">7002605770000000000</span>605.77</td>
+<td><span style="display:none" class="sortkey">7003529400000000000</span>5,294</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="/wiki/Ekurhuleni_Metropolitan_Municipality" title="Ekurhuleni Metropolitan Municipality">Ekurhuleni</a></td>
+<td><a href="/wiki/File:Germiston_CBD.jpg" class="image"><img alt="Germiston CBD.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Germiston_CBD.jpg/125px-Germiston_CBD.jpg" width="125" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Germiston_CBD.jpg/188px-Germiston_CBD.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Germiston_CBD.jpg/250px-Germiston_CBD.jpg 2x" data-file-width="2470" data-file-height="1622" /></a></td>
+<td><span style="display:none" class="sortkey">7006317847000000000</span>3,178,470<sup id="cite_ref-South_Africa_119-3" class="reference"><a href="#cite_note-South_Africa-119"><span>[</span>119<span>]</span></a></sup></td>
+<td><a href="/wiki/Ekurhuleni_Metropolitan_Municipality" title="Ekurhuleni Metropolitan Municipality">Municipality City</a></td>
+<td><span style="display:none" class="sortkey">7003197531000000000</span>1,975.31</td>
+<td><span style="display:none" class="sortkey">7003160900000000000</span>1,609</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/South_Africa" title="South Africa">South Africa</a></td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="/wiki/Nairobi" title="Nairobi">Nairobi</a></td>
+<td><a href="/wiki/File:NBO5.jpg" class="image"><img alt="NBO5.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBO5.jpg/125px-NBO5.jpg" width="125" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBO5.jpg/188px-NBO5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBO5.jpg/250px-NBO5.jpg 2x" data-file-width="804" data-file-height="606" /></a></td>
+<td><span style="display:none" class="sortkey">7006313836900000000</span>3,138,369<sup id="cite_ref-151" class="reference"><a href="#cite_note-151"><span>[</span>151<span>]</span></a></sup></td>
+<td><a href="/wiki/Provinces_of_Kenya" title="Provinces of Kenya">Capital District</a></td>
+<td><span style="display:none" class="sortkey">7002694900000000000</span>694.9</td>
+<td><span style="display:none" class="sortkey">7003451600000000000</span>4,516</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/35px-Flag_of_Kenya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/45px-Flag_of_Kenya.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Kenya" title="Kenya">Kenya</a></td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="/wiki/Addis_Ababa" title="Addis Ababa">Addis Ababa</a></td>
+<td><a href="/wiki/File:Aerials_Ethiopia_2009-08-27_15-26-13.JPG" class="image"><img alt="Aerials Ethiopia 2009-08-27 15-26-13.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerials_Ethiopia_2009-08-27_15-26-13.JPG/125px-Aerials_Ethiopia_2009-08-27_15-26-13.JPG" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerials_Ethiopia_2009-08-27_15-26-13.JPG/188px-Aerials_Ethiopia_2009-08-27_15-26-13.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerials_Ethiopia_2009-08-27_15-26-13.JPG/250px-Aerials_Ethiopia_2009-08-27_15-26-13.JPG 2x" data-file-width="4288" data-file-height="2848" /></a></td>
+<td><span style="display:none" class="sortkey">7006310367300000000</span>3,103,673<sup id="cite_ref-152" class="reference"><a href="#cite_note-152"><span>[</span>152<span>]</span></a></sup></td>
+<td>Metropolitan Municipality-Province<sup id="cite_ref-153" class="reference"><a href="#cite_note-153"><span>[</span>153<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002526990000000000</span>526.99</td>
+<td><span style="display:none" class="sortkey">7003588900000000000</span>5,889</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/35px-Flag_of_Ethiopia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/46px-Flag_of_Ethiopia.svg.png 2x" data-file-width="720" data-file-height="360" />&#160;</span><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a></td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="/wiki/Changsha" title="Changsha">Changsha</a></td>
+<td><a href="/wiki/File:The_Hu%C3%A1ngx%C4%ABng_L%C3%B9_Commercial_Pedestrian_Street_in_Changsha.jpg" class="image"><img alt="The Huángxīng Lù Commercial Pedestrian Street in Changsha.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Hu%C3%A1ngx%C4%ABng_L%C3%B9_Commercial_Pedestrian_Street_in_Changsha.jpg/125px-The_Hu%C3%A1ngx%C4%ABng_L%C3%B9_Commercial_Pedestrian_Street_in_Changsha.jpg" width="125" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Hu%C3%A1ngx%C4%ABng_L%C3%B9_Commercial_Pedestrian_Street_in_Changsha.jpg/188px-The_Hu%C3%A1ngx%C4%ABng_L%C3%B9_Commercial_Pedestrian_Street_in_Changsha.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Hu%C3%A1ngx%C4%ABng_L%C3%B9_Commercial_Pedestrian_Street_in_Changsha.jpg/250px-The_Hu%C3%A1ngx%C4%ABng_L%C3%B9_Commercial_Pedestrian_Street_in_Changsha.jpg 2x" data-file-width="1024" data-file-height="782" /></a></td>
+<td><span style="display:none" class="sortkey">7006309398000000000</span>3,093,980</td>
+<td><a href="/wiki/Changsha#Administration" title="Changsha">Sub-Provincial City</a><sup id="cite_ref-154" class="reference"><a href="#cite_note-154"><span>[</span>154<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7002969000000000000</span>969</td>
+<td><span style="display:none" class="sortkey">7003319300000000000</span>3,193</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="/wiki/Wenzhou" title="Wenzhou">Wenzhou</a></td>
+<td><a href="/wiki/File:Shopping_street_in_Wenzhou.jpg" class="image"><img alt="Shopping street in Wenzhou.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shopping_street_in_Wenzhou.jpg/125px-Shopping_street_in_Wenzhou.jpg" width="125" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shopping_street_in_Wenzhou.jpg/188px-Shopping_street_in_Wenzhou.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shopping_street_in_Wenzhou.jpg/250px-Shopping_street_in_Wenzhou.jpg 2x" data-file-width="3008" data-file-height="2000" /></a></td>
+<td><span style="display:none" class="sortkey">7006303943900000000</span>3,039,439<sup id="cite_ref-Wenzhou_City.2C_in_2010_the_sixth_national_census_data_bulletin_155-0" class="reference"><a href="#cite_note-Wenzhou_City.2C_in_2010_the_sixth_national_census_data_bulletin-155"><span>[</span>155<span>]</span></a></sup></td>
+<td><a href="/wiki/Wenzhou#Administration" title="Wenzhou">Sub-Provincial City</a><sup id="cite_ref-156" class="reference"><a href="#cite_note-156"><span>[</span>156<span>]</span></a></sup></td>
+<td><span style="display:none" class="sortkey">7003118788000000000</span>1,187.88</td>
+<td><span style="display:none" class="sortkey">7003255900000000000</span>2,559</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>

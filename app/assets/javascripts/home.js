@@ -1,0 +1,101 @@
+function touristf() {
+  cities = [
+    "Shanghai",
+    "Karachi",
+    "Beijing",
+    "Delhi",
+    "Lagos",
+    "Tianjin",
+    "Istanbul",
+    "Guangzhou",
+    "Mumbai",
+    "Moscow",
+    "Dhaka",
+    "Cairo",
+    "São Paulo",
+    "Lahore",
+    "Shenzhen",
+    "Seoul",
+    "Jakarta",
+    "Kinshasa",
+    "Tokyo",
+    "Mexico City",
+    "Lima",
+    "London",
+    "New York City",
+    "Bangkok",
+    "Dongguan",
+    "Nanjing",
+    "Tehran",
+    "Ahmedabad",
+    "Bogotá",
+    "Ho Chi Minh City",
+    "Hong Kong",
+    "Baghdad",
+    "Wuhan",
+    "Hyderabad",
+    "Hanoi",
+    "Luanda",
+    "Rio de Janeiro",
+    "Foshan",
+    "Santiago",
+    "Riyadh",
+    "Singapore",
+    "Shantou",
+    "Saint Petersburg",
+    "Pune",
+    "Ankara",
+    "Chennai",
+    "Abidjan",
+    "Chengdu",
+    "Yangon",
+    "Alexandria",
+    "Chongqing",
+    "Kolkata",
+    "Xi'an",
+    "Surat",
+    "Johannesburg",
+    "Dar es Salaam",
+    "Suzhou",
+    "Harbin",
+    "Giza",
+    "Zhengzhou",
+    "New Taipei City",
+    "Los Angeles",
+    "Cape Town",
+    "Shenyang",
+    "Yokohama",
+    "Busan",
+    "Hangzhou",
+    "Xiamen",
+    "Quanzhou",
+    "Berlin",
+    "Jeddah",
+    "Durban",
+    "Kabul",
+    "Jaipur",
+    "Hefei",
+    "Pyongyang",
+    "Madrid",
+    "Ekurhuleni",
+    "Nairobi",
+    "Addis Ababa",
+    "Changsha",
+    "Wenzhou",
+    ];
+    
+    var acity;
+    acity = "Shanghai";
+
+    $(".form-place").val(acity);
+
+    for (var i = 0; i < cities.length; i++) {
+      $(".tourist-chosen-city").append("<option>" + cities[i] + "</option>");
+    }
+    $(".tourist-chosen-city").chosen();
+    $(".tourist-chosen-city").on('change', function(evt, params) {
+      console.log(params.selected);
+      acity = params.selected;
+      $(".form-city").val(params.selected);
+    });
+}

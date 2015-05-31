@@ -1,0 +1,40 @@
+<div class="settings">
+  <div class="settings-panel">
+    <h1 class="title">Settings</h1>
+
+    <%= form_for @user, :html => {:class => "form-horizontal"} do |f| %>
+      <div class="form-group">
+        <label class="col-sm-2 control-label">City</label>
+        <div class="col-sm-10" style="margin-top: 5px;">
+          <select data-placeholder="Choose a city" class="chosen-city">
+          </select>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="col-sm-2 control-label">Languages</label>
+        <div class="col-sm-10" style="margin-top: 5px;">
+          <select data-placeholder="Choose languages" multiple class="chosen-lang">
+          </select>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="col-sm-2 control-label">Interests</label>
+        <div class="col-sm-10">
+          <select data-placeholder="Choose interests" multiple class="chosen-interests">
+          </select>
+        </div>
+      </div>
+      <script>
+        var city = "<%= @user.place %>";
+        var languages = "<%= @user.languages %>".split(',');
+        var interests = "<%= @user.interests %>".split(',');
+        $('.chosen-city')
+        globalf();
+      </script>
+      <%= f.text_field :place, :class => 'form-place', :type => 'hidden' %>
+      <%= f.text_field :languages, :class => 'form-languages', :type => 'hidden' %>
+      <%= f.text_field :interests, :class => 'form-interests', :type => 'hidden' %>
+      <%= f.submit "Save", :class => 'btn btn-primary btn-lg' %>
+    <% end %>
+  </div>
+</div>
